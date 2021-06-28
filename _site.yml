@@ -1,0 +1,15 @@
+name: "University of Portsmouth"
+output_dir: "docs"
+output:  
+  html_document:  
+    self_contained: no  
+    theme: united
+navbar:
+  title: "Portsmouth Selection"
+  left:
+    - text: "15 min class"
+      href: class_outline.html
+    - text: "Teaching philosophy"
+      href: teach_phil.html
+    - text: "Research overview"
+      href: research_overview.html

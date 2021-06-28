@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Dr. Felipe Melo" />
+
+
+<title>Novel landscapes: how biodiersity fits a changing world</title>
+
+<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/united.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/pagedtable-1.1/css/pagedtable.css" rel="stylesheet" />
+<script src="site_libs/pagedtable-1.1/js/pagedtable.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Portsmouth Selection</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="class_outline.html">15 min class</a>
+</li>
+<li>
+  <a href="teach_phil.html">Teaching philosophy</a>
+</li>
+<li>
+  <a href="research_overview.html">Research overview</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Novel landscapes: how biodiersity fits a changing world</h1>
+<h4 class="author">Dr. Felipe Melo</h4>
+<h4 class="date">28/06/2021</h4>
+
+</div>
+
+
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>Class level</strong></td>
+<td>Level 6 - third year undergraduate students</td>
+</tr>
+<tr class="even">
+<td><strong>Type of class</strong></td>
+<td>Revision class</td>
+</tr>
+<tr class="odd">
+<td><strong>Course</strong></td>
+<td>Biology (Hons)</td>
+</tr>
+<tr class="even">
+<td><strong>Duration</strong></td>
+<td>15 minutes</td>
+</tr>
+</tbody>
+</table>
+<div id="novel-landscapes" class="section level2">
+<h2>Novel landscapes</h2>
+<p>This is a revision class aiming to summarize what is a novel landscape, what is a novel landscape, how human activities create this modified landscapes, what are the mais effects on biodiversity and what are the key actions needed to restore and manage human-modified landscapes</p>
+<p><img src="https://onlinelibrary.wiley.com/cms/asset/9626ca82-2542-4a72-a419-b1a4a1502154/ele13535-fig-0002-m.jpg" /></p>
+</div>
+<div id="class-outline" class="section level2">
+<h2>Class outline</h2>
+<ol style="list-style-type: decimal">
+<li><p>Novel ecosystems, anthromes and human-modified landscapes</p></li>
+<li><p>Habitat fragmentation</p></li>
+<li><p>Biotic homogenization</p></li>
+<li><p>Socioecological productive systems</p></li>
+</ol>
+</div>
+<div id="on-the-novelty-of-landscapes" class="section level2">
+<h2>On the novelty of landscapes</h2>
+<p>Ecology aims on what explains sepecies assembly (ocurrence and abundance) in the remnants of natural habitats as if they were discrete categories or entities. The concept of novel ecosystem emerged to cope with the duality between ‘natural and non-natural’ or between ‘pristine vs. degraded’. Excepting for the large tracts of natural terretrial systems such as the boreal forests of the tropical ones, almost all ecosystems of the Earth are embedded into a ‘human matrix’. New species come while others, more sensitive can go or become locally extinct. The expected consequences varies from small changes in species abudannce or composition to large disruptions in ecosytem functions.</p>
+<p>The idea that the earth systems experience varying degrees of human influence is a central issue in modern ecology, princiaplly when it comes to assess the future of biodiversity in our planet. While the term novel ecosystems brings a definition of this emerging landscapes, the notion of human-modified landscapes tries to assess how modified can be a landscapem mostly using concepts and tools of the landscape ecology. Actually, ecologists know to assess the landscape structure and quantify aspects of both composition and configuration of huma-modified landscapes.</p>
+<p>More recently, the notion of Anthromes came to redraft our view of human dominated landscapes. This notion helps to estimate tha amount of earth surface used by humans and classify types of land use as well as place them in time, reconstructing a sort of sequence that initiates with extraction of natural resources and end up wiht urban ecosystems. Understanding land use dynamics, its drivers and its effectc on biodiversity is crucial to plan and execute managemetne strategies to minimized species loss while incrasing benefits to diverse human societies.</p>
+</div>
+<div id="habitat-fragmentation" class="section level2">
+<h2>Habitat fragmentation</h2>
+<p>Among the many consequences of land use changes, one of the most studied and pervasive is the ‘habitat fragmentation’. There is an ongoing debate on whether habitat framgentaion is good or bad to biodiverity <a href="">refs</a>. Solving this dilemma is beyond the scope of this class but I recommend (for those more interested) reading the main arguments of both sides. This is an exciting scientific dispute where solid arguments can be found on both sides. Most of us can identify ‘patches’ of natural habitats when traveling around. The fact that species now live in patched habitats is both an ecological and evolutionary novelty for most of them. All kinds of ecological effects have been reported for these patched communities. Shrirnking populations, disruption in ecological interactions, changes in alfa, beta and gamma diversity (in taxonomic, functional and phylogenetic dimensions) and biological invasion are among the most outstanding ones.</p>
+<p>Therefore, it is important to understand how species survive (or not) in these complex landscapes formed by natural habitats under varying degrees of human impact. What species thrive? Who are those gone? What are the short -to long term effects for ecosystem functioning?</p>
+</div>
+<div id="social-ecological-systems" class="section level2">
+<h2>Social-ecological systems</h2>
+<p>Because we are dealing with landscapes altered by human activities, it is a contradiction that classical ecological approaches haev been paying attention mostly on the biological and physical aspects of the landscapes. The human dimension has been historically neglected dur to both conceptual and analytical limitations. Actually, we can count with a well developed and novel approach to landscapes that sees both the natural and human environments as as coupled system, the social-ecological systems (SES). Rather than replacing landscapes ecology with SES apporach, the later must be summed up to the previous in an integrated framework to assess the impacts of human activities on landscapes.</p>
+<div id="to-know-more" class="section level3">
+<h3>To know more</h3>
+<ol style="list-style-type: decimal">
+<li><p>Novel Ecosystems</p></li>
+<li><p>Antromes project</p></li>
+</ol>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,40 @@
+---
+title: "Ecologia Numérica"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+# **Selection Process for the University of Portsmouth**
+
+This webpage is meant to provide all information to slection committee regarding my teaching and research abilities as a potential **Senior Lecturer in Terrestrial Ecology** at the School of Biological Sciences
+
+## How to navigate this site
+
+1. The *class outline* is offers a brief summary of the recorded class specifically prepared following the instruction given in the email recieved on Monday 28th June 2021: 
+**"Explain the cause and effects of selected human impacts on the natural world and explore possible solutions for key environmental issues"**. The search committee will find introductory texts to the topics of the classroom, references, slides and the link for the recorded classrom in this section
+
+2. In the section **Research Overview** evaluators will find the link to the presentatiion on my research overview and a brief description on my past, present and future research plans
+
+
+</div>
+<div class="col-sm-6">
+
+### [Novel landscapes: how biodiversity fits a changing world](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13535)
+
+![](https://onlinelibrary.wiley.com/cms/asset/9626ca82-2542-4a72-a419-b1a4a1502154/ele13535-fig-0002-m.jpg)
+
+Photo credits: [Arroyo-Rodríguez (2020)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13535)
+
