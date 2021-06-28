@@ -19,7 +19,7 @@ output:
 
 ## Novel landscapes
 
-This is a revision class aiming to summarize what is a novel landscape, what is a novel landscape, how human activities create this modified landscapes, what are the mais effects on biodiversity and what are the key actions needed to restore and manage human-modified landscapes
+This is a revision class aiming to summarize what is a novel landscape, how human activities create this modified landscapes, what are the mais effects on biodiversity and what are the key actions needed to restore and manage human-modified landscapes
 
 ![](https://onlinelibrary.wiley.com/cms/asset/9626ca82-2542-4a72-a419-b1a4a1502154/ele13535-fig-0002-m.jpg)
 
