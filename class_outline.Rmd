@@ -26,11 +26,11 @@ output:
 
 ## Class outline
 
-1) Novel ecosystems, anthromes and human-modified landscapes
+1) Land use changes
 
-2) Habitat fragmentation
+2) Novel ecosystems, anthromes and human-modified landscapes
 
-3) Biotic homogenization
+3) Habitat fragmentation
 
 4) Social-ecological systems (SES)
 
@@ -39,6 +39,7 @@ output:
 ## Slides
 
 ```{r, echo=FALSE}
+xaringanExtra::use_share_again()
 xaringanExtra::embed_xaringan(url="https://fplmelo.github.io/ports/slides/15min_class.html#1", ratio = "16:9")
 ```
 
@@ -55,7 +56,7 @@ More recently, the notion of Anthromes came to redraft our view of human dominat
 
 ## Habitat fragmentation  
 
-Among the many consequences of land use changes, one of the most studied and pervasive is the 'habitat fragmentation'. There is an ongoing debate on whether habitat framgentaion is good or bad to biodiverity [refs](). Solving this dilemma is beyond the scope of this class but I recommend (for those more interested) reading the main arguments of both sides. This is an exciting scientific dispute where solid arguments can be found on both sides. Most of us can identify 'patches' of natural habitats when traveling around. The fact that species now live in patched habitats is both an ecological and evolutionary novelty for most of them. All kinds of ecological effects have been reported for these patched communities. Shrirnking populations, disruption in ecological interactions, changes in alfa, beta and gamma diversity (in taxonomic, functional and phylogenetic dimensions) and biological invasion are among the most outstanding ones.  
+Among the many consequences of land use changes, one of the most studied and pervasive is the 'habitat fragmentation'. There is an ongoing debate on whether habitat framgentaion is good or bad to biodiverity. Solving this dilemma is beyond the scope of this class but I recommend (for those more interested) reading the main arguments of both sides. This is an exciting scientific dispute where solid arguments can be found on both sides. Most of us can identify 'patches' of natural habitats when traveling around. The fact that species now live in patched habitats is both an ecological and evolutionary novelty for most of them. All kinds of ecological effects have been reported for these patched communities. Shrirnking populations, disruption in ecological interactions, changes in alfa, beta and gamma diversity (in taxonomic, functional and phylogenetic dimensions) and biological invasion are among the most outstanding ones.  
 
 Therefore, it is important to understand how species survive (or not) in these complex landscapes formed by natural habitats under varying degrees of human impact. What species thrive? Who are those gone? What are the short -to long term effects for ecosystem functioning?
 
@@ -82,14 +83,14 @@ Considering that most of the Earth surface is under varying levels of human impa
 
 
 
-### Bibliography
-1) Novel Ecosystems
+### References
+1) [Novel Ecosystems: Intervening in the New Ecological World Order](https://www.wiley.com/en-ae/Novel+Ecosystems%3A+Intervening+in+the+New+Ecological+World+Order-p-9781118354223)
 
-2) Antromes project
+2) [Antromes project](https://ecotope.org/anthromes/)
 
-4) Social-ecological systems
+3) Is habitat fragmentation [good](https://www.sciencedirect.com/science/article/pii/S0006320718313375) or [bad](https://www.sciencedirect.com/science/article/pii/S0006320718305779) for biodiversty? 
 
-- [The Routledge Handbook of Research Methods for Social-Ecological Systems](https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/49560/9781000401516.pdf?sequence=1&isAllowed=y)
+4) [The Routledge Handbook of Research Methods for Social-Ecological Systems](https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/49560/9781000401516.pdf?sequence=1&isAllowed=y)
 
 
 
