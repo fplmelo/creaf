@@ -17,9 +17,9 @@ output:
 
 
 
-## Novel landscapes
 
-This is a revision class aiming to summarize what is a novel landscape, how human activities create this modified landscapes, what are the mais effects on biodiversity and what are the key actions needed to restore and manage human-modified landscapes
+
+
 
 <img src="https://onlinelibrary.wiley.com/cms/asset/9626ca82-2542-4a72-a419-b1a4a1502154/ele13535-fig-0002-m.jpg" width = 600>
 
@@ -69,7 +69,16 @@ Considering that most of the Earth surface is under varying levels of human impa
 
 ## Exercise: Planetary boundaries
 
-1) Read the text on [Mongabay.com](https://news.mongabay.com/2021/03/the-nine-boundaries-humanity-must-respect-to-keep-the-planet-habitable/) and watch the Movie
+1) Read the text on [Mongabay.com](https://news.mongabay.com/2021/03/the-nine-boundaries-humanity-must-respect-to-keep-the-planet-habitable/) and watch the short movie bellow
+
+2) Write an essay 800-1000 words trying to connect what you have learned alog this module with the **plnetary boundaries** framework
+
+<iframe width="797" height="432" src="https://www.youtube.com/embed/Mpv6aPFhr80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Let's work!
+
+<img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif">
+
 
 
 

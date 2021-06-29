@@ -191,3 +191,7 @@ Read more on: [Mongabay.com](https://news.mongabay.com/2015/07/land-sparing-vs-l
 .center[
 <iframe width="797" height="432" src="https://www.youtube.com/embed/Mpv6aPFhr80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]
 
+---
+class: ceter, middle
+# Thank you
+<img src="https://media.giphy.com/media/l2Je24ONWRJepKEpO/giphy.gif">
