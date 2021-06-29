@@ -146,9 +146,48 @@ Read more on: [Mongabay.com](https://news.mongabay.com/2015/07/land-sparing-vs-l
 ]
 
 ---
-# Landscape management: Ecological restoration
+# Landscape management: Ecological Restoration
+.pull-left[
+###- Re-creates 'new habitats'
+###- Fully functional?
+###- How useful to people?
+]
+.pull-right[
+![](libs/frug.png)
+
+[Brancalion et al 2017](https://repositorio.unesp.br/bitstream/handle/11449/179791/2-s2.0-85045726486.pdf?sequence=1&isAllowed=y)
+]
+
+---
+# Landscape management: Ecological Restoration
 
 <img src="https://www.iucn.org/sites/dev/files/styles/graphics/public/media-uploads/2020/07/iucn-flr-principles-simple-plus.png?itok=Am2M0VCW" width=1000>
 
 ---
-# 
+# Landscape management: Ecological Restoration
+
+![](libs/wef.png)
+
+[Melo et al 2021](https://www.nature.com/articles/s41893-020-00608-z)
+
+---
+# Take home messages
+
+--
+##- Land use sihts are the mains threat to biodiversity
+
+--
+##- Novel landscapes is the new normal
+
+--
+##- Social and ecological dimensons are intertwined
+
+--
+##- Ecological restoration is challenging and urgent
+
+---
+# Exercise
+###- [Read](https://news.mongabay.com/2021/03/the-nine-boundaries-humanity-must-respect-to-keep-the-planet-habitable/), watch the video and write an essay on 'Planetary Boundaries' focusing on what you have learned in this module.
+.center[
+<iframe width="797" height="432" src="https://www.youtube.com/embed/Mpv6aPFhr80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]
+
