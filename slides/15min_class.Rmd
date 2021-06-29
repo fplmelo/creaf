@@ -17,7 +17,7 @@ output:
       beforeInit: "macros.js"
 
 ---
-```{r xaringan-tile-view, echo=FALSE}
+```{r, echo=FALSE}
 xaringanExtra::use_tile_view()
 xaringanExtra::use_scribble()
 xaringanExtra::use_fit_screen()
