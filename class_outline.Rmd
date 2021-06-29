@@ -39,7 +39,7 @@ This is a revision class aiming to summarize what is a novel landscape, how huma
 ## Slides
 
 ```{r, echo=FALSE}
-xaringanExtra::embed_xaringan(url="https://github.com/fplmelo/ports/slides/15min_class.html#1", ratio = "16:9")
+xaringanExtra::embed_xaringan(url="https://fplmelo.github.io/ports/slides/15min_class.html#1", ratio = "16:9")
 ```
 
 

@@ -21,6 +21,7 @@ output:
 xaringanExtra::use_tile_view()
 xaringanExtra::use_scribble()
 xaringanExtra::use_fit_screen()
+xaringanExtra::style_share_again(share_buttons = c("twitter", "linkedin", "pocket"))
 ```
 
 # Class structure
@@ -148,3 +149,6 @@ Read more on: [Mongabay.com](https://news.mongabay.com/2015/07/land-sparing-vs-l
 # Landscape management: Ecological restoration
 
 <img src="https://www.iucn.org/sites/dev/files/styles/graphics/public/media-uploads/2020/07/iucn-flr-principles-simple-plus.png?itok=Am2M0VCW" width=1000>
+
+---
+# 
