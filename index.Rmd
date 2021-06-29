@@ -1,5 +1,5 @@
 ---
-title: "Ecologia Numérica"
+title: "Selection Process for the University of Portsmoutha"
 output: html_document
 ---
 
@@ -19,12 +19,22 @@ output: html_document
 
 # **Selection Process for the University of Portsmouth**
 
-This webpage is meant to provide all information to slection committee regarding my teaching and research abilities as a potential **Senior Lecturer in Terrestrial Ecology** at the School of Biological Sciences
+This webpage is meant to provide all information to slection committee regarding my teaching and research abilities as a potential **Senior Lecturer in Terrestrial Ecology** at the School of Biological Sciences.
+
+Here I present a brief simulation on how I use to organize classes using online tools that combine:
+
+1) slide presentations 
+
+2) short texts 
+
+3) multimedia (links, videos, pcitures)
+
+4) exercises
 
 ## How to navigate this site
 
-1. The *class outline* is offers a brief summary of the recorded class specifically prepared following the instruction given in the email recieved on Monday 28th June 2021: 
-**"Explain the cause and effects of selected human impacts on the natural world and explore possible solutions for key environmental issues"**. The search committee will find introductory texts to the topics of the classroom, references, slides and the link for the recorded classrom in this section
+1. The *15 min class* link I offer a brief summary that should be used as a guide for the recorded class specifically prepared following the instruction given in the email recieved on Monday 28th June 2021: 
+**"Explain the cause and effects of selected human impacts on the natural world and explore possible solutions for key environmental issues"**. The search committee will find summary texts to the topics of the class, references, slide presentation and the link for the recorded classrom in this section
 
 2. In the section **Research Overview** evaluators will find the link to the presentatiion on my research overview and a brief description on my past, present and future research plans
 
@@ -32,9 +42,9 @@ This webpage is meant to provide all information to slection committee regarding
 </div>
 <div class="col-sm-6">
 
-### [Novel landscapes: how biodiversity fits a changing world](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13535)
+![](https://academicpositions.at/uploads/20a/30b/20a30b3bf15836df506cec454f8a821a.png)
 
-![](https://onlinelibrary.wiley.com/cms/asset/9626ca82-2542-4a72-a419-b1a4a1502154/ele13535-fig-0002-m.jpg)
 
-Photo credits: [Arroyo-Rodríguez (2020)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13535)
+
+
 

@@ -1,5 +1,5 @@
 ---
-title: "Novel landscapes: how biodiersity fits a changing world"
+title: "How biodiersity fits in a changing world?"
 author: "Dr. Felipe Melo"
 date: "28/06/2021"
 output:
@@ -21,7 +21,8 @@ output:
 
 This is a revision class aiming to summarize what is a novel landscape, how human activities create this modified landscapes, what are the mais effects on biodiversity and what are the key actions needed to restore and manage human-modified landscapes
 
-![](https://onlinelibrary.wiley.com/cms/asset/9626ca82-2542-4a72-a419-b1a4a1502154/ele13535-fig-0002-m.jpg)
+<img src="https://onlinelibrary.wiley.com/cms/asset/9626ca82-2542-4a72-a419-b1a4a1502154/ele13535-fig-0002-m.jpg" width = 600>
+
 
 ## Class outline
 
@@ -54,10 +55,20 @@ Therefore, it is important to understand how species survive (or not) in these c
 
 Because we are dealing with landscapes altered by human activities, it is a contradiction that classical ecological approaches haev been paying attention mostly on the biological and physical aspects of the landscapes. The human dimension has been historically neglected dur to both conceptual and analytical limitations. Actually, we can count with a well developed and novel approach to landscapes that sees both the natural and human environments as as coupled system, the social-ecological systems (SES). Rather than replacing landscapes ecology with SES apporach, the later must be summed up to the previous in an integrated framework to assess the impacts of human activities on landscapes.
 
-### To know more
+## Landscape management - habitat restoration
+
+Considering that most of the Earth surface is under varying levels of human impact, management becomes essential if not urgent. Management must be seen as a toolbox filled with diverse and adaptive strategies guided by sound scientific avidence and the most up to date knowledge. Within this toolbox an importat issue stands up, forest restoration. If we are to create biodiversity-riendly landscapes, ecological restoration is surely needed. Actually, restoration is a hot-topic in ecology, conservation and politics. Numerous global initiatives have been launched to push restoration programs around the world. We have now accumulated enough knowledge to: map, prioritize, design, execute and montior restoration initiatives. All these phases are based on solid ecological information that was presented during this course. However, there are challenges ahead for increase the reach and scale of restoration programs and these has to do with who benefits from restoaration and how these benefits are shared. Landscapes managemetn through restoration is an ambitious goal whose success is tigthly linked to social and environmental justice. Landscape management must not reproduce current social inequalities and must be used as a transformation tool for a sutainable future. 
+
+
+
+### Bibliography
 1) Novel Ecosystems
 
 2) Antromes project
+
+4) Social-ecological systems
+
+- [The Routledge Handbook of Research Methods for Social-Ecological Systems](https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/49560/9781000401516.pdf?sequence=1&isAllowed=y)
 
 
 

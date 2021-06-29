@@ -3,13 +3,13 @@ output_dir: "docs"
 output:  
   html_document:  
     self_contained: no  
-    theme: united
+    theme: flatly
 navbar:
   title: "Portsmouth Selection"
   left:
     - text: "15 min class"
       href: class_outline.html
     - text: "Teaching philosophy"
-      href: teach_phil.html
+      href: teaching.html
     - text: "Research overview"
       href: research_overview.html
