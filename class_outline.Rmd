@@ -36,6 +36,14 @@ This is a revision class aiming to summarize what is a novel landscape, how huma
 
 5) Landscape Management
 
+## Slides
+
+```{r, echo=FALSE}
+xaringanExtra::embed_xaringan(url="https://github.com/fplmelo/ports/slides/15min_class.html#1", ratio = "16:9")
+```
+
+
+
 ## On the novelty of landscapes
 
 Ecology traditionaly focus on what explains sepecies assembly (ocurrence and abundance) in the remnants of natural habitats as if they were discrete categories or entities. The concept of novel ecosystem emerged to cope with the duality between 'natural and non-natural' or between 'pristine vs. degraded'. Excepting for the large tracts of natural terretrial systems such as the boreal forests of the tropical ones, almost all ecosystems of the Earth are embedded into a 'human matrix'. New species come while others, more sensitive can go or become locally extinct. The expected consequences varies from small changes in species abudannce or composition to large disruptions in ecosytem functions.
@@ -58,6 +66,8 @@ Because we are dealing with landscapes altered by human activities, it is a cont
 ## Landscape management - habitat restoration
 
 Considering that most of the Earth surface is under varying levels of human impact, management becomes essential if not urgent. Management must be seen as a toolbox filled with diverse and adaptive strategies guided by sound scientific avidence and the most up to date knowledge. Within this toolbox an importat issue stands up, forest restoration. If we are to create biodiversity-riendly landscapes, ecological restoration is surely needed. Actually, restoration is a hot-topic in ecology, conservation and politics. Numerous global initiatives have been launched to push restoration programs around the world. We have now accumulated enough knowledge to: map, prioritize, design, execute and montior restoration initiatives. All these phases are based on solid ecological information that was presented during this course. However, there are challenges ahead for increase the reach and scale of restoration programs and these has to do with who benefits from restoaration and how these benefits are shared. Landscapes managemetn through restoration is an ambitious goal whose success is tigthly linked to social and environmental justice. Landscape management must not reproduce current social inequalities and must be used as a transformation tool for a sutainable future. 
+
+## Exercise: Planetary boundaries
 
 
 
