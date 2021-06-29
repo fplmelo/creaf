@@ -1,0 +1,85 @@
+---
+title: "Biodiversity in a changing world"
+subtitle: ""
+author: "Dr. Felipe Melo"
+institute: "revision class"
+date: "`r Sys.Date()`"
+encoding: "UTF-8"
+output: 
+  xaringan::moon_reader:
+    libs_dir: libs
+    css: ["default","rladies","tamu-fonts"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "macros.js"
+
+---
+```{r xaringan-tile-view, echo=FALSE}
+xaringanExtra::use_tile_view()
+xaringanExtra::use_scribble()
+xaringanExtra::use_fit_screen()
+```
+
+# Class structure
+--
+
+###- How landscapes are changing
+--
+
+###- The main causes of land use shifts
+--
+
+###- Consequences for biodiversity
+--
+
+###- How to manage human-modified landscapes
+
+---
+# The human matrix of nature
+.pull-left[
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/BorneoRainforest_DSC_9267.JPG/1200px-BorneoRainforest_DSC_9267.JPG" alt="BorneoRainforest DSC 9267.JPG">
+Photo credits: [Shankar Raman - Wikipedia](https://en.wikipedia.org/wiki/Tropical_forest#/media/File:BorneoRainforest_DSC_9267.JPG)
+]
+
+--
+.pull-right[
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Inside_the_Batad_rice_terraces.jpg">
+
+<a href="https://commons.wikimedia.org/wiki/File:Inside_the_Batad_rice_terraces.jpg">Adi.simionov</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
+]
+
+
+---
+.left-column[
+# Novel landscapes
+
+###- Hybrid ecosystems
+###- Natural + anthopogenic
+###- New features
+###- Good or bad?
+]
+.right-column[
+![](libs/novel.png) [Hobbs et al (2009)](http://lerf.eco.br/img/publicacoes/2009_2911%20Novel%20ecosystems.pdf)
+
+]
+
+---
+.left-column[
+# Anthromes
+
+### [Dr. Erle Ellis](https://ecotope.org/anthromes/ecology/)
+<img src="https://ecotope.org/anthromes/images/classic_paradigm_wide_web.png">
+
+<img src="https://ecotope.org/anthromes/images/anthromes_paradigm_wide_web.png">]
+
+
+<img src="https://ecotope.org/anthromes/images/anthrome_ecology_model_v3_760px.png">
+
+
+
+
+

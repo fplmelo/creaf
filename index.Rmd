@@ -19,7 +19,7 @@ output: html_document
 
 # **Selection Process for the University of Portsmouth**
 
-This webpage is meant to provide all information to slection committee regarding my teaching and research abilities as a potential **Senior Lecturer in Terrestrial Ecology** at the School of Biological Sciences.
+This webpage is meant to provide all information to the selection committee regarding my teaching and research abilities as a candidate to the job of **Senior Lecturer in Terrestrial Ecology** at the School of Biological Sciences.
 
 Here I present a brief simulation on how I use to organize classes using online tools that combine:
 
