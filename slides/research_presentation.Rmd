@@ -2,7 +2,7 @@
 title: "Ecology of social-ecological tropical landscapes"
 subtitle: "An overview for the University of Portsmouth"
 author: "Dr. Felipe Melo"
-institute: "revision class"
+institute: ""
 date: "`r Sys.Date()`"
 encoding: "UTF-8"
 output: 
@@ -214,7 +214,7 @@ xaringanExtra::use_share_again()
 
 ---
 .pull-left[
-# Conservation biology: a transversal research theme:
+# Conservation biology: a cross research theme:
 
 ## 
 ###- Protected Areas
@@ -232,5 +232,66 @@ xaringanExtra::use_share_again()
 ]
 
 ---
-# Future research plans
+.left-column[
+# Future Research Plans
+
+###- Peoples's depedency on forest
+
+]
+.right-column[
+.pull-left[
+<img src="libs/caat.jpg" width= 550>
+
+### Alencar et al (submited)
+]
+.pull-right[
+<img src="libs/povert.png" width= 250>
+]
+]
+
+---
+.left-column[
+# Future Research Plans
+
+###- Biodiversity-Ecosystem Function relationhships
+
+]
+.right-column[
+<iframe width="780" height="521" src="https://www.youtube.com/embed/C21RHdxeu3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+]
+
+---
+.left-column[
+# Facilities needed
+
+###- Office to work
+###- Collectve spaces for students (eg. dedicated or shared lab, meeting rooms)
+###- Technical support for fund raising in UK
+]
+
+.right-column[
+<img src="libs/lab.png">
+]
+
+---
+# Potential collaborations at University of Portsmouth
+.pull-left[
+## Selected research groups
+###- Evolutionary ecology of plant reproduction
+###- Invasive species and biogeography
+]
+
+.pull-right[
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/UoP_2017_Logo.jpg/1200px-UoP_2017_Logo.jpg>
+]
+
+---
+class: middle, center
+
+# Thank you
+
+
+
+
+
 
