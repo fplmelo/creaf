@@ -50,7 +50,7 @@ xaringanExtra::use_share_again()
 
 ]
 .pull-right[
-### - Dr. Marcelo Tabarelli - UFPE (supervisor)
+### - [Dr. Marcelo Tabarelli - UFPE (supervisor)](https://scholar.google.com.br/citations?user=Q2l5wHAAAAAJ&hl=pt-BR)
 <img src="https://biooekonomie.de/sites/default/files/styles/fullwidth_extra_large/public/images/2017-06/preistraeger_marcelo_tabarelli.jpg?itok=17cryClg">
 
 ]
@@ -69,7 +69,7 @@ xaringanExtra::use_share_again()
 
 ]
 .pull-right[
-### - Dr. Gerardo Ceballos - UNAM (supervisor)
+### - [Dr. Gerardo Ceballos - UNAM (supervisor)](https://scholar.google.com.br/citations?user=JCSZqzsAAAAJ&hl=pt-BR)
 <img src="https://www.dgcs.unam.mx/boletin/bdboletin/multimedia/WAV180427/283(1).jpg">
 
 ]
@@ -119,9 +119,9 @@ xaringanExtra::use_share_again()
 ]
 .pull-right[
 ## Main collaborators
-###- Victor Arroyo-Rodríguez - UNAM (México)
-###- Braulio A. Santos - UFPB (Brazil)
-###- Marcelo Tabarelli - UFPE (Brazil)
+###- [Victor Arroyo-Rodríguez - UNAM (México)](https://scholar.google.com.br/citations?user=JCit_KMAAAAJ&hl=pt-BR)
+###- [Braulio A. Santos - UFPB (Brazil)](https://scholar.google.com.br/citations?user=6Y2M1JAAAAAJ&hl=pt-BR)
+###- [Marcelo Tabarelli - UFPE (Brazil)](https://scholar.google.com.br/citations?user=Q2l5wHAAAAAJ&hl=pt-BR)
 <img src="https://pbs.twimg.com/profile_images/1169944133026418688/eRE7DWO3_400x400.jpg" width= 150>
 <img src="https://static.wixstatic.com/media/f2ed72_9cc712f5554142e5b6abbd3c7eafa755~mv2.gif" width= 150>
 <img src="https://publons.com/media/thumbs/academic/photos/767b6e03-ca54-49d3-9e6e-4e5c4ed57832.png.200x200_q95_crop_detail_upscale.png" width= 150>
@@ -154,9 +154,9 @@ xaringanExtra::use_share_again()
 ]
 .pull-right[
 ## Main collaborators
-###- Robin Chazdon - Uni Colorado (USA)
-###- Pedro Brancalion - USP (Brazil)
-###- Severino Pinto - Cepan (Brazil)
+###- [Robin Chazdon - Uni Colorado (USA)](https://scholar.google.com.br/citations?user=utgfbkgAAAAJ&hl=pt-BR)
+###- [Pedro Brancalion - USP (Brazil)](https://scholar.google.com.br/citations?user=0f_YV1wAAAAJ&hl=pt-BR)
+###- [Severino Pinto - Cepan (Brazil)](https://scholar.google.com.br/citations?user=XiKoNzIAAAAJ&hl=pt-BR)
 <img src="https://www.ofitexto.com.br/wp-content/uploads/2017/06/robin-1.jpg" width= 150>
 <img src="https://lh3.googleusercontent.com/proxy/WtMgSNmO5ADiX9OkdRoPCdaEHVJ5MUgCGZ57aDlsJ8fBfuGEOOriKYwQ71wsG7vqmcu0H8LMLP1LsspSc1K40HYrldqfvvpATozLdlSenA" width= 150>
 <img src="https://agenciaeconordeste.com.br/wp-content/uploads/2019/09/severino-rodrigo-ribeiro-pinto-233x300.jpg" width= 150>
@@ -191,9 +191,9 @@ xaringanExtra::use_share_again()
 ]
 .pull-right[
 ## Main collaborators
-###- Luke Parry - Lancaster University (UK)
-###- Ulysses P. Albuquerque - UFPE (Brazil)
-###- Cristina Baldauf - UFERSA (Brazil)
+###- [Luke Parry - Lancaster University (UK)](https://scholar.google.com.br/citations?user=gOsY_7gAAAAJ&hl=pt-BR&oi=ao)
+###- [Ulysses P. Albuquerque - UFPE (Brazil)](https://scholar.google.com.br/citations?user=JnPswr0AAAAJ&hl=pt-BR)
+###- [Cristina Baldauf - UFERSA (Brazil)](https://scholar.google.com.br/citations?user=5cwmkkQAAAAJ&hl=pt-BR&oi=ao)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVLT2Zk2lgWQHS1V61MYTDeRKUwK4nH5T5UYlADIWW4ADlvhJXxASqd8jOdGobaIcQRs&usqp=CAU" width= 150>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZISilLrqi5tFmTJLjdLsqXi4-FWMt_RzhFepa6D3JJ7RUY4eRX-o-ovoJuZ3T58P8MaA&usqp=CAU" width= 150>
 <img src="https://i0.wp.com/www.ihu.unisinos.br/images/ihu/2020/03/05-3_cristina_baldauf_foot_arquivo_pessoal.jpg?resize=639%2C780" width= 150>
@@ -254,6 +254,7 @@ xaringanExtra::use_share_again()
 # Future Research Plans
 
 ###- Biodiversity-Ecosystem Function relationhships
+### - in partnership with [Dr. Thaigo Gonçalves-Souza](https://scholar.google.com/citations?user=TjaP2l8AAAAJ&hl=pt-BR)
 
 ]
 .right-column[
