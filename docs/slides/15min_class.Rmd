@@ -28,6 +28,9 @@ xaringanExtra::style_share_again(share_buttons = c("twitter", "facebook"))
 # Class structure
 --
 
+###- Land use changes
+--
+
 ###- How landscapes are changing
 --
 

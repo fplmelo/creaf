@@ -7,7 +7,6 @@ output:
     df_print: paged
 ---
 
-## Teaching Phylosophy
 
 
 Being a teacher is amongst the most rewarding facets of my career. I am a biologist by training but my motivation for being a biologist was primarily being a teacher. The beginning of my undergraduate studies in biology was primarily focused on secondary-level teaching. With time, I gradually moved my career focus towards research in ecology but never abandoned my interest in teaching science. When my career path became clearly focused on research I started a continuous investment in improving my skills as a mentor and student supervisor. In the following lines I briefly present my teaching philosophy including the main authors and practices that influenced my teaching practice and how I cope with the challenges of teaching ecology in the Global South.
