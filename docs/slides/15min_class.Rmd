@@ -1,5 +1,5 @@
 ---
-title: "Biodiversity in a Changing World"
+title: "Novel landscapes: new challenges for biodiversity conservation"
 subtitle: ""
 author: "Dr. Felipe Melo"
 institute: "revision class"
@@ -42,7 +42,7 @@ xaringanExtra::style_share_again(share_buttons = c("twitter", "facebook"))
 ---
 # Land use changes
 .pull-left[
-<iframe src="https://www.facebook.com/plugins/video.php?height=397&href=https%3A%2F%2Fwww.facebook.com%2Fmapbiomas%2Fvideos%2F483303689130758%2F&show_text=false&width=560&t=0" width="560" height="397" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>]
+<iframe id="reddit-embed" src="https://www.redditmedia.com/r/brasil/comments/ach998/arredores_do_parque_ind%C3%ADgena_do_xingu_19842018/?ref_source=embed&amp;ref=share&amp;embed=true" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="411" width="640" scrolling="no"></iframe>]
 
 .pull-right[
 # Main causes
@@ -156,23 +156,16 @@ Read more on: [Mongabay.com](https://news.mongabay.com/2015/07/land-sparing-vs-l
 <img src="https://www.iucn.org/sites/dev/files/styles/graphics/public/media-uploads/2020/07/iucn-flr-principles-simple-plus.png?itok=Am2M0VCW" width=1000>
 
 ---
-# Landscape management: Ecological Restoration
-
-![](libs/wef.png)
-
-[Melo et al 2021](https://www.nature.com/articles/s41893-020-00608-z)
-
----
 # Take home messages
 
 --
-##- Land use sihts are the main threat to biodiversity
+##- Land use shifts are the main threat to biodiversity
 
 --
-##- Novel landscapes is the "new normal"
+##- Novel landscapes are the "new normal"
 
 --
-##- Social and ecological dimensons are intertwined
+##- Social and ecological dimensions are intertwined
 
 --
 ##- Ecological restoration is challenging and urgent
