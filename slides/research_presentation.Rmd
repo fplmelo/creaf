@@ -15,7 +15,7 @@ output:
       countIncrementalSlides: false
       ratio: '16:9'
       beforeInit: "macros.js"
-
+    
 ---
 ```{r, echo=FALSE}
 xaringanExtra::use_tile_view()
