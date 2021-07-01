@@ -22,7 +22,7 @@ xaringanExtra::use_tile_view()
 xaringanExtra::use_scribble()
 xaringanExtra::use_fit_screen()
 xaringanExtra::use_share_again()
-
+xaringanExtra::style_share_again(share_buttons = c("twitter", "facebook"))
 ```
 
 # Research overview
@@ -31,7 +31,7 @@ xaringanExtra::use_share_again()
 ##- The origins of my research
 --
 
-##- My curernt research
+##- My current research
 --
 
 ##- Future plans for the University of Porstmouth
@@ -112,8 +112,8 @@ xaringanExtra::use_share_again()
 # Research theme 1:
 
 # Tree assemblages in human-modified landscapes
-###- Fucntional
-###- Phylogeneitc
+###- Functional
+###- Phylogenetic
 ###- Taxonomic
 ###- Landscape Ecology
 ]
@@ -130,14 +130,14 @@ xaringanExtra::use_share_again()
 ---
 # Selected outputs 
 .pull-left[
-### Publcations
+### Publications
 <img src="libs/hope.png" width= 550>
 <img src="libs/pathways.png" width= 550>
 ]
 .pull-right[
 ### Hundreds of students trained in field courses in Brazil and México
 .center[
-<img src="https://lh3.googleusercontent.com/5wxlLLqNhqXt2rQEIB7kod2le4xGvW5TZjnZXEJ5bZ08mqIx3d1-7huhnXeuaCmHnQqvWnQg6HVsga-Y8C4GRvhLCgHOUocpwcoBPnh16Ts=w1280" width = 250>
+<img src=libs/curso_caat.jpg width = 250>
 
 <img src="https://pbs.twimg.com/media/D3wZurrW4AEDcsY?format=jpg&name=medium" width = 250>
 ]]
@@ -146,10 +146,10 @@ xaringanExtra::use_share_again()
 .pull-left[
 # Research theme 2:
 
-# Ecological Restortaion 
+# Ecological Restoration 
 ###- Political ecology of restoration
 ###- Participatory restoration
-###- Biolotical invasion
+###- Biological invasion
 
 ]
 .pull-right[
@@ -158,7 +158,7 @@ xaringanExtra::use_share_again()
 ###- [Pedro Brancalion - USP (Brazil)](https://scholar.google.com.br/citations?user=0f_YV1wAAAAJ&hl=pt-BR)
 ###- [Severino Pinto - Cepan (Brazil)](https://scholar.google.com.br/citations?user=XiKoNzIAAAAJ&hl=pt-BR)
 <img src="https://www.ofitexto.com.br/wp-content/uploads/2017/06/robin-1.jpg" width= 150>
-<img src="https://lh3.googleusercontent.com/proxy/WtMgSNmO5ADiX9OkdRoPCdaEHVJ5MUgCGZ57aDlsJ8fBfuGEOOriKYwQ71wsG7vqmcu0H8LMLP1LsspSc1K40HYrldqfvvpATozLdlSenA" width= 150>
+<img src="https://win.iweventos.com.br/upload/perfil/10554.jpg" width= 150>
 <img src="https://agenciaeconordeste.com.br/wp-content/uploads/2019/09/severino-rodrigo-ribeiro-pinto-233x300.jpg" width= 150>
 ]
 
@@ -166,7 +166,7 @@ xaringanExtra::use_share_again()
 .pull-left[
 # Selected outputs 
 
-### Publcations
+### Publications
 <img src="libs/biu.png" width= 550>
 <img src="libs/meli.png" width= 550>
 <img src="libs/branca.png" width= 550>
@@ -202,7 +202,7 @@ xaringanExtra::use_share_again()
 ---
 .pull-left[
 # Selected outputs 
-### Publcations
+### Publications
 <img src="libs/wef_paper.png" width= 550>
 <img src="libs/specht.png" width= 550>
 ]
@@ -214,7 +214,7 @@ xaringanExtra::use_share_again()
 
 ---
 .pull-left[
-# Conservation biology: a cross research theme:
+# Conservation biology: a cross-disciplinary research theme
 
 ## 
 ###- Protected Areas
@@ -254,7 +254,7 @@ xaringanExtra::use_share_again()
 # Future Research Plans
 
 ###- Biodiversity-Ecosystem Function relationhships
-### - in partnership with [Dr. Thaigo Gonçalves-Souza](https://scholar.google.com/citations?user=TjaP2l8AAAAJ&hl=pt-BR)
+###- partnership with [Dr. Thiago Gonçalves-Souza](https://scholar.google.com/citations?user=TjaP2l8AAAAJ&hl=pt-BR)
 
 ]
 .right-column[
@@ -277,9 +277,10 @@ xaringanExtra::use_share_again()
 ---
 # Potential collaborations at University of Portsmouth
 .pull-left[
-## Selected research groups
-###- Evolutionary ecology of plant reproduction
-###- Invasive species and biogeography
+## Selected areas of expertise and research groups
+###- [Biodiversity and Evolution](https://www.port.ac.uk/research/research-areas/areas-of-expertise/biodiversity-and-evolution)
+###- [Environmental Change](https://www.port.ac.uk/research/research-areas/areas-of-expertise/environmental-change)
+###- [Climate Change and the Environment](https://www.port.ac.uk/research/research-centres-and-groups/climate-change-and-the-environment)
 ]
 
 .pull-right[
