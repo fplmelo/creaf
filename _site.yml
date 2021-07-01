@@ -9,7 +9,5 @@ navbar:
   left:
     - text: "15 min class"
       href: class_outline.html
-    - text: "Teaching philosophy"
-      href: teaching.html
     - text: "Research overview"
       href: research_overview.html
