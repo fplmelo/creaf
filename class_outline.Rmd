@@ -44,6 +44,10 @@ xaringanExtra::embed_xaringan(url="https://fplmelo.github.io/ports/slides/15min_
 ```
 
 
+## Recorded Class
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/VKhesNRK-lA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## On the novelty of landscapes
 
