@@ -8,5 +8,5 @@ output:
 ---
 
 
-### An up-to-date version of my CV can be found .
+### An up-to-date version of my CV can be found [HERE](https://fplmelo.github.io/creaf/cv_felipe_eng.pdf) .
 
