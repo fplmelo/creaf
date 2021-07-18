@@ -1,102 +1,29 @@
 ---
-title: "How biodiersity fits in a changing world?"
+title: "Research vision for the CREAF"
 author: "Dr. Felipe Melo"
-date: "28/06/2021"
+date: "18/07/2021"
 output:
   html_document:
     df_print: paged
 ---
 
+## **Goals and Philosophy**
+My research strategy is focused on the study of the ecology and management of social-ecological landscapes. To achieve this, I pursue to establish an interdisciplinary research group built on partnerships across many disciplines such as landscape ecology, functional ecology, ecological restoration and political ecology. My research vision for the next three years is to consolidate a world-class research group on the study of coupled social and ecological systems, delivering high impact contributions to both science and to the resolution of real-world problems of biodiversity conservation and the improvement of human livelihoods. 
 
-|                   |                                             |
-|-------------------|---------------------------------------------|
-| **Class level**       | 3rd year undergraduate students |
-| **Type of class**    |                Revision class               |
-| **Course**            |                Biology (Hons)               |
-| **Duration** |                  15 minutes                 |
+To achieve these goals I draw on the social-ecological systems framework and tools to address the interlinkages between biodiversity and human activities in novel landscapes. Therefore, I am interested in all kinds of interactions between human activities and biodiversity that happens in working landscapes created by humans such as rangelands and fragmented forest landscapes. Natural resources use, biological invasion, changes in community assembly pattern and processes as well as ecological restoration and conservation policies are among my main research interests. 
+I am trained in natural sciences, specifically in ecology but my interests towards interdisciplinary research that have always been intense, has increased in the last few years. I am very interested in conducting research with a strong ecological ground and clear management application aiming at the sustainability of tropical human-modified landscapes.
 
+## **Historic of contributions to science **
 
+Many of my colleagues credit me as having a sharp critical thinking that takes me beyond my comfort zone when doing science. Early in my career I experienced writing reviews and perspective papers in leading journals such as Biological Conservation and Trends in Ecology and Evolution. My innovative ideas on social-ecological systems are expressed on pieces that discuss: The role of human-modified landscapes in maintaining biodiversity (Melo et al 2013); How proliferation of disturbance-adapted species cause biotic homogenization (Tabarelli et al 2012); How to scale-up long lasting restoration projects (Melo et al 2013b); Assessing alternative successional pathways in Tropical forests (Arroyo-Rodríguez et al. 2017) and recently, introducing the novel concept of “forest security” as a fourth dimension for the water, energy and food security nexus (Melo et al 2021). I have also contributed to many other cutting edge ideas and scientific debates on themes related to landscape ecology such as the debate around whether forest fragmentation is good or bad to biodiversity. I consider that I am able to constantly think on new and integrative ideas that address how human-made landscapes can (or cannot) maintain both biodiversity and human livelihoods. 
 
-
-
-
-
-<img src="https://onlinelibrary.wiley.com/cms/asset/9626ca82-2542-4a72-a419-b1a4a1502154/ele13535-fig-0002-m.jpg" width = 600>
+I have a strong publication record with a vast network of collaborators from many countries. In Brazil, where I am based, I am part of the scientific committee of the Brazilian Platform for Biodiversity and Ecosystem Services (the Brazilian chapter of the IPBES) and I am part of the public policy workgroup of the Brazilian Association of Ecologists (ABECO). I am currently leading a research team working simultaneously on two multi-institutional projects funded by the Brazilian National Council for Research Development (CNPq). I have co-organized three symposiums in international meetings (SER 2011; ATBC 2013 and 2017). In 2014 I first-authored a paper that called for the action to conserve the three-banded armadillo and its habitat, the Brazilian dry forest, after this animal was chosen as the official mascot of the 2014 FIFA World Cup. This resulted in a huge campaign and media coverage that ended up with the creation of a 110,000 hectares protected area after my personal participation in political negotiation and the elaboration of supporting studies for the creation of this protected area. This story of success in conservation is taught in a second paper (Bernard and Melo 2019) and in a video (see here). 
 
 
-## Class outline
+## **Research vision, future plans and networking **
 
-1) Land use changes
+My research strategy aims to delve deeper into the ecology and management of human-dominated landscapes. I foresee plenty of opportunities to apply for and get grants from varying external and US sources such as National Science Foundation - NSF and diverse international funds from private institutions and NGOs. My past research income records are solid and provided a constant flux of economic resources for funding my research. My plan in Cornell for the next few years is to build a dedicated research group on ecology and management of social-ecological landscapes. My links with Brazilian and Mexican institutions allow the establishment of large research programs based on Latin America with access to funds from these countries in cooperation with a network of collaborators. I have developed a broad and productive network of strong scientific collaborations with researchers from institutions in the UK (e.g. co-supervising PhD students, project co-management and previous sabbatical visit to Lancaster University with Dr. Luke Parry), USA (e.g. CO-I on PARTNERS project with Dr. Robin Chazdon at University of Connecticut), Mexico (e.g. co-running postgraduate field courses in Mexico and Brazil with Dr. Victor Arroyo-Rodríguez, UNAM). This is reflected in my publishing record of co-authored papers in journals including PNAS, Biological Reviews and Ecology Letters. 
 
-2) Novel ecosystems, anthromes and human-modified landscapes
+I am now coordinating two simultaneous projects funded by the Brazilian Council for Research Development (CNPq) that covers many aspects of the aims and objectives of this job advertisement. These projects involve both undergraduate and graduate students, financial support for field trips and consultancy contracts to compile, manage and analyze databases on forest cover and social-economic indicators of a region composed of nine states where more than 26 million people inhabit. I want to highlight the project entitled “Effects of climate change on forest security of the Caatinga ecosystem in Brazil”. This project fits perfectly with the goals of the Cornell Atkinson Center for Sustainability and UN Sustainable Development Goals. This project aims to understand human dependency on forest services and goods as well as rights of access to these services for local, traditional communities. Therefore, this is a great opportunity to move to Cornell with an ongoing and financed project that would help me to establish prompt collaborations with the staff of the Department of Natural Resources and the Environment at Cornell University. 
 
-3) Habitat fragmentation
-
-4) Social-ecological systems (SES)
-
-5) Landscape Management
-
-## Slides
-
-```{r, echo=FALSE}
-xaringanExtra::use_share_again()
-xaringanExtra::embed_xaringan(url="https://fplmelo.github.io/ports/slides/15min_class.html#1", ratio = "16:9")
-```
-
-
-## Recorded Class
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/VKhesNRK-lA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-## On the novelty of landscapes
-
-Ecology traditionally focuses on what explains species assembly (occurrence and abundance) in the remnants of natural habitats as if they were discrete categories or entities. The concept of novel ecosystems emerged to cope with the duality between 'natural and non-natural' or between 'pristine vs. degraded'. Except for the large tracts of natural terrestrial systems such as the boreal forests of the tropical ones, almost all ecosystems of the Earth are embedded into a 'human matrix'. New species come while others, more sensitive can go or become locally extinct. The expected consequences vary from small changes in species abundance or composition to large disruptions in ecosystem functions.
-
-The idea that the earth systems experience varying degrees of human influence is a central issue in modern ecology, principally when it comes to assessing the future of biodiversity in our planet. While the term novel ecosystems brings a definition of these emerging landscapes, the notion of human-modified landscapes tries to assess how modified can be a landscape mostly using concepts and tools of the landscape ecology. Actually, ecologists know to assess the landscape structure and quantify aspects of both composition and configuration of human-modified landscapes. 
-
-More recently, the notion of Anthromes came to redraft our view of human dominated landscapes. This notion helps to estimate the amount of earth surface used by humans and classify types of land use as well as place them in time, reconstructing a sort of sequence that initiates with extraction of natural resources and ends up with urban ecosystems. Understanding land use dynamics, its drivers and its effects on biodiversity is crucial to plan and execute management strategies to minimize species loss while increasing benefits to diverse human societies. 
-
-
-## Habitat fragmentation  
-
-Among the many consequences of land use changes, one of the most studied and pervasive is the 'habitat fragmentation'. There is an ongoing debate on whether habitat fragmentation is good or bad to biodiversity. Solving this dilemma is beyond the scope of this class but I recommend (for those more interested) reading the main arguments of both sides. This is an exciting scientific dispute where solid arguments can be found on both sides. Most of us can identify 'patches' of natural habitats when traveling around. The fact that species now live in patched habitats is both an ecological and evolutionary novelty for most of them. All kinds of ecological effects have been reported for these patched communities. Shrinking populations, disruption in ecological interactions, changes in alfa, beta and gamma diversity (in taxonomic, functional and phylogenetic dimensions) and biological invasion are among the most outstanding ones.  
-
-Therefore, it is important to understand how species survive (or not) in these complex landscapes formed by natural habitats under varying degrees of human impact. What species thrive? Who are those gone? What are the short -to long term effects for ecosystem functioning?
-
-## Social-ecological systems
-
-Because we are dealing with landscapes altered by human activities, it is a contradiction that classical ecological approaches have been paying attention mostly to the biological and physical aspects of the landscapes. The human dimension has been historically neglected due to both conceptual and analytical limitations. Actually, we can count with a well developed and novel approach to landscapes that sees both the natural and human environments as a coupled system, the social-ecological systems (SES). Rather than replacing landscape ecology with the SES approach, the latter must be summed up to the previous in an integrated framework to assess the impacts of human activities on landscapes.
-
-
-## Landscape management - habitat restoration
-
-Considering that most of the Earth's surface is under varying levels of human impact, management becomes essential if not urgent. Management must be seen as a toolbox filled with diverse and adaptive strategies guided by sound scientific evidence and the most up to date knowledge. Within this toolbox an important issue stands up, forest restoration. If we are to create biodiversity-friendly landscapes, ecological restoration is surely needed. Actually, restoration is a hot-topic in ecology, conservation and politics. Numerous global initiatives have been launched to push restoration programs around the world. We have now accumulated enough knowledge to: map, prioritize, design, execute and monitor restoration initiatives. All these phases are based on solid ecological information that was presented during this course. However, there are challenges ahead for increasing the reach and scale of restoration programs and these have to do with who benefits from restoration and how these benefits are shared. Landscapes management through restoration is an ambitious goal whose success is tightly linked to social and environmental justice. Landscape management must not reproduce current social inequalities and must be used as a transformation tool for a sustainable future. 
-
-## Exercise: Planetary boundaries
-
-1) Read the text on [Mongabay.com](https://news.mongabay.com/2021/03/the-nine-boundaries-humanity-must-respect-to-keep-the-planet-habitable/) and watch the short movie bellow
-
-2) Write an essay 800-1000 words trying to connect what you have learned along this module with the **planetary boundaries** framework
-
-
-<iframe width="797" height="432" src="https://www.youtube.com/embed/Mpv6aPFhr80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Let's work!
-
-<img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif">
-
-
-
-
-### References
-1) [Novel Ecosystems: Intervening in the New Ecological World Order](https://www.wiley.com/en-ae/Novel+Ecosystems%3A+Intervening+in+the+New+Ecological+World+Order-p-9781118354223)
-
-2) [Antromes project](https://ecotope.org/anthromes/)
-
-3) Is habitat fragmentation [good](https://www.sciencedirect.com/science/article/pii/S0006320718313375) or [bad](https://www.sciencedirect.com/science/article/pii/S0006320718305779) for biodiversty? 
-
-4) [The Routledge Handbook of Research Methods for Social-Ecological Systems](https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/49560/9781000401516.pdf?sequence=1&isAllowed=y)
-
-
-
+Finally, I believe that natural and social sciences have been wrongly and unfortunately understood as separate fields of knowledge. My research vision is to contribute to construct effective bridges between these two sciences through a world-class research program that I would like to develop in the vibrant environment of the University of Cornell.

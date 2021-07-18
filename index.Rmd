@@ -1,5 +1,5 @@
 ---
-title: "Selection Process for the University of Portsmoutha"
+title: "Selection Process for CREAF"
 output: html_document
 ---
 
@@ -17,32 +17,21 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Selection Process for the University of Portsmouth**
-
-This webpage is meant to provide all information to the selection committee regarding my teaching and research abilities as a candidate to the job of **Senior Lecturer in Terrestrial Ecology** at the School of Biological Sciences.
-
-Here I present a brief simulation on how I use to organize classes using online tools that combine:
-
-1) slide presentation 
-
-2) short texts 
-
-3) multimedia (links, videos, photos)
-
-4) exercise
+# **Selection Process for CREAF**
 
 ## How to navigate this site
 
-1. In the **15 min class** link I offer a brief summary that should be used as a guide for the recorded class specifically prepared following the instruction given in the email recieved on Monday 28th June 2021: 
-*"Explain the cause and effects of selected human impacts on the natural world and explore possible solutions for key environmental issues"*. The search committee will find summary texts to the topics of the class, references, slide presentation and the link for the recorded class in this section
+1. In the section **Research Overview** evaluators will find the link to the presentatiion on my research overview and a brief description on my past, present and future research plans.
 
-2. In the section **Research Overview** evaluators will find the link to the presentatiion on my research overview and a brief description on my past, present and future research plans
+2. In the section **Research Statement** I offer some words that may help evaluation committe to understand my research vision, philosophy and goals for the CREAF.
+
+3. And up-to-date CV can be found in **Updated CV**
 
 
 </div>
 <div class="col-sm-6">
 
-![](https://academicpositions.at/uploads/20a/30b/20a30b3bf15836df506cec454f8a821a.png)
+![](https://www.gbif.es/wp-content/uploads/2018/07/CREAF_logo_A4-768x285.png)
 
 
 

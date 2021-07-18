@@ -5,9 +5,11 @@ output:
     self_contained: no  
     theme: flatly
 navbar:
-  title: "Portsmouth Selection"
+  title: "CREAF Selection"
   left:
-    - text: "15 min class"
-      href: class_outline.html
     - text: "Research overview"
       href: research_overview.html
+    - text: "Research statement"
+      href: research_statement.html
+    - text: "Updated CV"
+      href: cv.html

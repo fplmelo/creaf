@@ -1,0 +1,19 @@
+---
+title: "Research vision for the CREAF"
+author: "Dr. Felipe Melo"
+date: "18/07/2021"
+output:
+  html_document:
+    df_print: paged
+---
+
+## **Goals and Philosophy**
+
+
+## **Historic of contributions to science **
+
+
+
+
+## **Research vision, future plans and networking **
+
