@@ -1,7 +1,7 @@
 ---
-title: "Research overview"
+title: "Up-to-date CV"
 author: "Dr. Felipe Melo"
-date: "28/06/2021"
+date: "18/07/2021"
 output:
   html_document:
     df_print: paged
