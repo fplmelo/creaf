@@ -244,7 +244,7 @@ class: middle, center
 
 .right[
 
-### State of the forest and human dependency
+### State of the forest and livelihoods
 <img src="libs/vulne.png" width= 700>
 
 ]
@@ -306,7 +306,7 @@ class: middle, center
 .pull-left[
 # Fundraising
 
-### Latin American Institutions
+### Latin American sources
 <img src=libs/cnpq.png>
 
 <img src=libs/conacyt.png width = 200>
@@ -314,7 +314,7 @@ class: middle, center
 ]
 .pull-right[
 
-### European Institutions
+### European sources
 <img src=libs/erc.png width = 250>
 <img src=libs/fcri.png>
 <img src=libs/fecyt.jpg>
