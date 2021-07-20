@@ -235,7 +235,7 @@ class: middle, center
 ###- Effects of climate change on forest security
 
 
-**Research Grant 68k €**
+**Research Grant 30k €**
 <img src="libs/cnpq.png" width= 550>
 
 
