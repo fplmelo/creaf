@@ -25,7 +25,7 @@ output: html_document
 
 2. In the section **Research Statement** I offer some words that may help evaluation committe to understand my research vision, philosophy and goals for the CREAF.
 
-3. And up-to-date CV can be found in **Updated CV**
+3. And up-to-date CV can be found in **CV**
 
 
 </div>

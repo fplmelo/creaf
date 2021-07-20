@@ -25,13 +25,59 @@ xaringanExtra::use_share_again()
 xaringanExtra::style_share_again(share_buttons = c("twitter", "facebook"))
 ```
 
-# Research overview
+# Presentation structure
+--
+
+##- Origins of my research
 --
 
 ##- My current research
 --
 
 ##- Future plans for the CREAF
+
+---
+class: middle, center
+
+# My scientific origins
+
+---
+.pull-left[
+## BSc and MSc at the UFPE (Brazil)
+.pull-left[
+### Dr. Marcelo Tabarelli 
+<img src="libs/taba.png">
+]
+.pull-right[
+####- Plant-animal interactions
+####- Forest succession
+####- Biologigal invasion
+####- Plant ecology 
+####- Forest fragmentaiton
+]
+]
+
+--
+
+.pull-right[
+## PhD at the UNAM (Mexico)
+.pull-left[
+### Dr. Gerardo Ceballos 
+<img src="libs/gcg.png">
+]
+.pull-right[
+####- Biogeography
+####- Landscape ecology
+####- Wildlife management
+####- Biodiversity Conservation 
+####- Political Ecology
+]
+]
+
+---
+class: middle, center
+
+# My current work
 
 ---
 # Permanent position at UFPE (January 2011 - Present)
@@ -42,10 +88,10 @@ xaringanExtra::style_share_again(share_buttons = c("twitter", "facebook"))
 ## [Apllied Ecology Lab](www.ecoaplic.org)
 
 ###- Research (>50 scientific papers)
-###- Teaching (Diverse ecology courses)
+###- Teaching (various ecology courses)
 ###- Mentoring (6 PhD; 8 MSc; 15 BSc)
 ###- RRI (Scientific committees)
-###- Administration (Course Director)
+###- Administration (Course coodinator)
 ]
 
 ---
@@ -64,7 +110,7 @@ xaringanExtra::style_share_again(share_buttons = c("twitter", "facebook"))
 ###- [Braulio A. Santos - UFPB (Brazil)](https://scholar.google.com.br/citations?user=6Y2M1JAAAAAJ&hl=pt-BR)
 ###- [Marcelo Tabarelli - UFPE (Brazil)](https://scholar.google.com.br/citations?user=Q2l5wHAAAAAJ&hl=pt-BR)
 <img src="https://pbs.twimg.com/profile_images/1169944133026418688/eRE7DWO3_400x400.jpg" width= 150>
-<img src="https://static.wixstatic.com/media/f2ed72_9cc712f5554142e5b6abbd3c7eafa755~mv2.gif" width= 150>
+<img src="https://static.wixstatic.com/media/f2ed72_9cc712f5554142e5b6abbd3c7eafa755~mv2.gif" width= 140>
 <img src="https://publons.com/media/thumbs/academic/photos/767b6e03-ca54-49d3-9e6e-4e5c4ed57832.png.200x200_q95_crop_detail_upscale.png" width= 150>
 ]
 
@@ -100,24 +146,26 @@ xaringanExtra::style_share_again(share_buttons = c("twitter", "facebook"))
 ###- [Severino Pinto - Cepan (Brazil)](https://scholar.google.com.br/citations?user=XiKoNzIAAAAJ&hl=pt-BR)
 <img src="https://www.ofitexto.com.br/wp-content/uploads/2017/06/robin-1.jpg" width= 150>
 <img src="https://win.iweventos.com.br/upload/perfil/10554.jpg" width= 150>
-<img src="https://agenciaeconordeste.com.br/wp-content/uploads/2019/09/severino-rodrigo-ribeiro-pinto-233x300.jpg" width= 150>
+<img src="https://agenciaeconordeste.com.br/wp-content/uploads/2019/09/severino-rodrigo-ribeiro-pinto-233x300.jpg" width= 120>
 ]
 
 ---
-.pull-left[
 # Selected outputs 
-
+.pull-left[
 ### Publications
+
+<img src="libs/priority.png" width= 400>
+
 <img src="libs/hope.png" width= 450>
-<img src="libs/meli.png" width= 450>
-<img src="libs/branca.png" width= 400>
 ]
 .pull-right[
-### Restoration public policy
+
 .center[
+### Public policies on Restoration
 <img src="https://ecossis.com/www1/wp-content/uploads/2020/02/planaveg1-392x173-1.png" width = 350>
 
 <img src="https://static.wixstatic.com/media/5da841_296be387d24c4091a071cbacfc37de69.png/v1/fill/w_350,h_147,al_c,lg_1,q_85/5da841_296be387d24c4091a071cbacfc37de69.webp" width = 350>
+
 ]]
 
 ---
@@ -125,7 +173,7 @@ xaringanExtra::style_share_again(share_buttons = c("twitter", "facebook"))
 # Research theme 3:
 
 # Social-ecological systems 
-###- Political ecology of natural resources use
+###- Use of natural resources
 ###- Forest-poverty relationship
 ###- Ethnoecology
 
@@ -136,21 +184,25 @@ xaringanExtra::style_share_again(share_buttons = c("twitter", "facebook"))
 ###- [Ulysses P. Albuquerque - UFPE (Brazil)](https://scholar.google.com.br/citations?user=JnPswr0AAAAJ&hl=pt-BR)
 ###- [Cristina Baldauf - UFERSA (Brazil)](https://scholar.google.com.br/citations?user=5cwmkkQAAAAJ&hl=pt-BR&oi=ao)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVLT2Zk2lgWQHS1V61MYTDeRKUwK4nH5T5UYlADIWW4ADlvhJXxASqd8jOdGobaIcQRs&usqp=CAU" width= 150>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZISilLrqi5tFmTJLjdLsqXi4-FWMt_RzhFepa6D3JJ7RUY4eRX-o-ovoJuZ3T58P8MaA&usqp=CAU" width= 150>
-<img src="https://i0.wp.com/www.ihu.unisinos.br/images/ihu/2020/03/05-3_cristina_baldauf_foot_arquivo_pessoal.jpg?resize=639%2C780" width= 150>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZISilLrqi5tFmTJLjdLsqXi4-FWMt_RzhFepa6D3JJ7RUY4eRX-o-ovoJuZ3T58P8MaA&usqp=CAU" width= 145>
+<img src="https://i0.wp.com/www.ihu.unisinos.br/images/ihu/2020/03/05-3_cristina_baldauf_foot_arquivo_pessoal.jpg?resize=639%2C780" width= 130>
 ]
 
 ---
 .pull-left[
 # Selected outputs 
+
+
 ### Publications
 <img src="libs/wef_paper.png" width= 550>
 <img src="libs/specht.png" width= 550>
 ]
 .pull-right[
-### Calculating water, energy, foood and forest security for the Brazilian Dry Forests
 .center[
-<img src="libs/wef_maps.png" width= 550>
+### Biocultural forest restoration
+<img src="libs/biocult.png" width= 400>
+
+Sena et al. (under review in _Restoration Ecology_)
 ]]
 
 ---
@@ -162,6 +214,7 @@ xaringanExtra::style_share_again(share_buttons = c("twitter", "facebook"))
 ###- Conservation Policy
 ###- Political Ecology
 
+<img src="libs/fuleco2.png" width= 550>
 
 ]
 .pull-right[
@@ -172,45 +225,50 @@ xaringanExtra::style_share_again(share_buttons = c("twitter", "facebook"))
 ]
 
 ---
-# Future Research Plans
-.left-column[
+class: middle, center
 
+# What is next?
+
+---
+.left-column[
+# Future Research Plans
 ###- Effects of climate change on forest security
 
 
 **Research Grant 68k €**
 <img src="libs/cnpq.png" width= 550>
-<img src="libs/rsg.jpeg" width= 550>
+
 
 ]
 .right-column[
 
 .right[
 
-###Land-use changes vs. livelihoods
-<img src="libs/poverty.png" width= 550>
+### State of the forest and human dependency
+<img src="libs/vulne.png" width= 700>
 
 ]
 ]
 
 
 ---
-# Future Research Plans
 .left-column[
-
+# Future Research Plans
 ###- Biodiversity-Ecosystem Function relationhships
 **Research Grant 72k €**
 <img src="libs/cnpq.png" width= 450>
-###- in partnership with [Dr. Thiago Gonçalves-Souza](https://scholar.google.com/citations?user=TjaP2l8AAAAJ&hl=pt-BR)
+<img src="libs/rsg.jpeg" width= 550>
+
 
 ]
 .right-column[
 <iframe width="780" height="521" src="https://www.youtube.com/embed/C21RHdxeu3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+###- in partnership with [Dr. Thiago Gonçalves-Souza](https://scholar.google.com/citations?user=TjaP2l8AAAAJ&hl=pt-BR)
 ]
 
 ---
-# In CREAF
 .pull-left[
+# In CREAF
 ## Selected areas of expertise and research fields
 
 ###- [Population and community dynamics](http://www.creaf.cat/biodiversity/population-and-community-dynamics)
@@ -221,14 +279,14 @@ xaringanExtra::style_share_again(share_buttons = c("twitter", "facebook"))
 ]
 
 .pull-right[
-<img src=libs/res_fields.png width = 400>
+<img src=libs/res_fields.png width = 500>
 ]
 
 ---
 ## Cross-cutting themes
-
+.center[
 <img src=libs/six.png width = 800>
-
+]
 ---
 # Training new scientists
 .pull-left[
@@ -245,14 +303,17 @@ xaringanExtra::style_share_again(share_buttons = c("twitter", "facebook"))
 ]]
 
 ---
-# Fundraising
 .pull-left[
+# Fundraising
+
 ### Latin American Institutions
 <img src=libs/cnpq.png>
+
 <img src=libs/conacyt.png width = 200>
 
 ]
 .pull-right[
+
 ### European Institutions
 <img src=libs/erc.png width = 250>
 <img src=libs/fcri.png>
@@ -261,8 +322,11 @@ xaringanExtra::style_share_again(share_buttons = c("twitter", "facebook"))
 ---
 
 class: middle, center
-
+# Moltes gràcies
+# Muchas gracias
+# Obrigado
 # Thank you
+
 
 
 
