@@ -39,7 +39,8 @@ xaringanExtra::style_share_again(share_buttons = c("twitter", "facebook"))
 ---
 class: middle, center
 
-# My scientific origins
+# My scientific origins (2001-2010)
+
 
 ---
 .pull-left[
@@ -51,9 +52,11 @@ class: middle, center
 .pull-right[
 ####- Plant-animal interactions
 ####- Forest succession
-####- Biologigal invasion
-####- Plant ecology 
+####- Biological invasion
 ####- Forest fragmentaiton
+]
+.center[
+<img src="libs/capes.jpg" width= 100>
 ]
 ]
 
@@ -72,7 +75,33 @@ class: middle, center
 ####- Biodiversity Conservation 
 ####- Political Ecology
 ]
+
+<img src="libs/capes.jpg" width= 100>
+<img src="libs/rsg.jpeg" width= 120>
+<img src="libs/ifs.png" width= 170>
 ]
+
+
+
+---
+.pull-left[
+# Postdoc and NGO
+<img src="libs/cepan.png" width= 170>
+<img src="libs/ufpe.jpg" width= 170>
+
+## Conservation science
+## Landscape Restoration
+]
+
+.pull-right[
+
+##Main activities 
+###- Training
+###- Fundraising
+###- Public policies
+<img src="libs/elti.jpg" width= 370>
+]
+
 
 ---
 class: middle, center
