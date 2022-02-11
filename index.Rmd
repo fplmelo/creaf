@@ -1,5 +1,5 @@
 ---
-title: "Selection Process for CREAF"
+title: "Selection Process for Copernicus Institute at Utrecht University"
 output: html_document
 ---
 
@@ -17,13 +17,13 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Selection Process for CREAF**
+# **Selection Process for Copernicus Institute**
 
 ## How to navigate this site
 
-1. In the section **Research Overview** evaluators will find the link to the presentatiion on my research overview and a brief description on my past, present and future research plans.
+1. In the section **Research Overview** you will find the link to the presentation on my research overview and a brief description on my past, present and future research plans.
 
-2. In the section **Research Statement** I offer some words that may help evaluation committe to understand my research vision, philosophy and goals for the CREAF.
+2. In the section **Research Statement** I offer some words that may help evaluation committee to understand my research vision, philosophy and goals for the CREAF.
 
 3. And up-to-date CV can be found in **CV**
 
@@ -31,7 +31,7 @@ output: html_document
 </div>
 <div class="col-sm-6">
 
-![](https://www.gbif.es/wp-content/uploads/2018/07/CREAF_logo_A4-768x285.png)
+![](images/uu-logo.png)
 
 
 

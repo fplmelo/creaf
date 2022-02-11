@@ -1,7 +1,7 @@
 ---
-title: "Research vision for the CREAF"
+title: "Research vision for the Copernicus Institute"
 author: "Dr. Felipe Melo"
-date: "18/07/2021"
+date: "11/01/2022"
 output:
   html_document:
     df_print: paged
