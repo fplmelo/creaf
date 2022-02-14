@@ -11,5 +11,5 @@ output:
 ### Bellow I present an overview of my career
 
 ```{r, echo=FALSE}
-xaringanExtra::embed_xaringan(url="https://fplmelo.github.io/creaf/slides/research_presentation.html#1", ratio = "16:9")
+xaringanExtra::embed_xaringan(url="https://fplmelo.github.io/copernicus/slides/research_presentation.html#1", ratio = "16:9")
 ```
