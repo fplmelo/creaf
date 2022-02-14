@@ -2,9 +2,8 @@
 title: "Research vision for the Copernicus Institute"
 author: "Dr. Felipe Melo"
 date: "11/01/2022"
-output:
-  html_document:
-    df_print: paged
+output: html_document
+   
 ---
 
 ## **Goals and Philosophy**

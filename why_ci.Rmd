@@ -1,0 +1,48 @@
+---
+title: "Why Copernicus Institute?"
+author: "Felipe Melo"
+date: "14/02/2022"
+output: html_document
+---
+## **Vision**
+
+*"...We want to have a positive impact on the transition to <br>
+a sustainable society. We do this by developing excellent <br>
+and relevant knowledge and by educating the change agents of <br>
+the future. We interact with citizens, politicians, policy makers,<br>
+NGO’s and firms to learn and influence decisions..."* 
+
+*"...You are committed to societal engagement and public outreach<br>
+activities focusing on creating impact, for example by participating<br>
+in international networks such as IUCN, IPBES, IPCC and/or others..."*
+
+This vision strongly matches my own research vision and my career outputs. I run a laboratory of [Applied Ecology](ecoaplic.org) where I strive to keep a research program that generates relevant contribution to both basic sciences and to applied ones. I am part of the scientific committee of the [Brazilian Platform of Biodiversitty and Ecosystem Services - BPBES](www.bpbes.net.br) where I took part on the production of two reports for decision makers. Actually, I am also the lead author of a chapter (*Chapter 5.4: Options for delivering sustainable approaches to elements of the nexus (biodiversity conservation, restoration and sustainable use*) in the upcoming Nexus Assessment of the [IPBES](https://ipbes.net/nexus). I had crucial role in many political decision with impacts on biodiversity conservation such as elaboration of national plans for restoration and creation of protected areas. I also had a short but life-changing experience while working as head of an NGO dedicated to conservation and restoration, [Cepan](www.cepan.org.br). I use to write to newspapers and digital media because I strongly believe that communication with citizens is crucial to improve impact of my research ([see example here](https://ecoaplic.org/en/#about)).
+
+## **Networking**
+
+*"...The Copernicus Institute works in interdisciplinary teams and organizes<br>
+research around cross-topical themes and sustainability challenges..."*
+
+My plan at the Copernicus Institute, for the next three years, is to build a dedicated research group on **sustainable management of social-ecological tropical landscapes**. I carefully examined the research lines of many researchers based at Copernicus Institute and my research interest seems to both strengthen current interdisciplinary expertise and create a novel research focus with a solid ground on biodiversity sciences. I foresee many opportunities to engage in ongoing research groups and projects as well as I see myself being a hub for new opportunities of collaborations for team of scientists of the Copernicus Institute. In my cover letter I highlighted some potential collaborations I could anticipate based on research profiles published. With time, I found many more amazing researchers that I'd be honoured to work with. 
+
+My actual links with Brazilian and Mexican institutions allow me to facilitate links between Copernicus Institute and Latin American research groups and institutions. My network of collaborations is broad and includes researchers from the UK (Dr. Luke Parry, Lancaster University), USA (e.g. CO-I on PARTNERS project with Dr. Robin Chazdon at University of Sunshine Coast) and Mexico (Dr. Victor Arroyo-Rodríguez, UNAM). Copernicus Institute could benefit from these established links that could help to diversify institutional partnerships, creating opportunities for new collaborations.
+
+## **Teaching plans**
+
+"_...You are expected to develop and coordinate new courses <br>
+on the wider context of sustainable development, <br>
+to contribute to the existing curriculum and to <br>
+supervise Bachelor's and Master's theses..._"
+
+### *Field-course of ecology and conservation of novel landscapes*
+
+This course is intended to develop abilities of: biodiversity inventories, landscape analyses, basic R programming and biodiversity conservation. The course combines theoretical and practical exercises divided into individual short projects (1 day); group projects (2 days) and a final individual long project (5 days). All projects count with the help of a teacher for planning and design of experiments and analyses. The whole workflow, from planning to the oral presentation of the results in the form of a symposium (usually at night) must be completed within the duration of projects. Written reports are peer reviewed and published in the form of an e-Book.
+
+### *Landscape ecology*
+
+Landscape description and analysis is a challenge for ecological studies and this course is intended to offer the basics of landscape ecology, focusing on the main concepts and analytical tools as well as the current debates on non-consensual ideas on what landscape's structure is optimal for conservation of biodiversity.
+
+### *Political ecology*
+
+Who benefits and who must cope with the burdens of environmental problems and conservation policies? Notions of critical geographies, environmental justice, conservation thinking and sustainability are the bases of this course that uses both national and geopolitical agendas as frameworks to evaluate the geopolitics of biodiversity.
+

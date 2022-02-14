@@ -1,4 +1,4 @@
-name: "University of Portsmouth"
+name: "Utrecht University"
 output_dir: "docs"
 output:  
   html_document:  
@@ -6,11 +6,14 @@ output:
     theme: cosmo
     
 navbar:
-  title: "CREAF Selection"
+  title: "Home"
   left:
-    - text: "Research overview"
+    - text: "Slide presentation"
       href: research_overview.html
-    - text: "Research statement"
+    - text: "Research Vision"
       href: research_statement.html
-    - text: "CV"
-      href: cv.html
+    - text: "Teaching Overview"
+      href: teaching_statement.html
+    - text: "Why Copernicus Institute?"
+      href: why_ci.html
+    

@@ -1,14 +1,14 @@
 ---
-title: "Research overview"
+title: "Slide presentation"
 author: "Dr. Felipe Melo"
-date: "20/07/2021"
+date: "18/02/2022"
 output:
   html_document:
     df_print: paged
 ---
 
 
-### Bellow I present an overview of my research activities.
+### Bellow I present an overview of my career
 
 ```{r, echo=FALSE}
 xaringanExtra::embed_xaringan(url="https://fplmelo.github.io/creaf/slides/research_presentation.html#1", ratio = "16:9")

@@ -1,6 +1,7 @@
 ---
 title: "Selection Process for Copernicus Institute at Utrecht University"
 output: html_document
+   
 ---
 
 <style type="text/css">
@@ -21,12 +22,15 @@ output: html_document
 
 ## How to navigate this site
 
-1. In the section **Research Overview** you will find the link to the presentation on my research overview and a brief description on my past, present and future research plans.
+1. In the section **Slide presentation** you will find a short presentation on my research overview and a brief description on my past, present and future research plans.
 
-2. In the section **Research Statement** I offer some words that may help evaluation committee to understand my research vision, philosophy and goals for the CREAF.
+2. In the section **Researrch Vision** I offer some words that may help search committee to understand my research vision, philosophy and goals for the Copernicus Institute.
 
-3. And up-to-date CV can be found in **CV**
+3. In the section **Teaching Overview** I briefly explain my approach to education, methods, practices and outputs as a teacher and student supervisor.
 
+4. In the section **Why Copernicus Institute?** I highlight more congruences between my career plans and the scholar profile of the job advertisement.
+
+*Note: I use several quotes extracted from the job advertisement as to demonstrate that my profile matches with the job.*
 
 </div>
 <div class="col-sm-6">
