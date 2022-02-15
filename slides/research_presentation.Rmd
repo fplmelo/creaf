@@ -395,7 +395,7 @@ class: middle, center
 
 ##- Sspatial prioritization, effectiveness of Protected Areas
 ##- Conservation Policy
-  - PES legislation, Conservation conflicts
+##      - PES legislation, Conservation conflicts
 ##- Political Ecology
   - 
 
@@ -430,9 +430,8 @@ class: middle, center
 .panel[.panel-name[BPBES]
 ## [Brazilian Platform of Biodiversity and Ecosystem Services](www.bpbes.net.br)
 ### Merber of the Scientific Committee
-### Coauthor in twwo published reports
-#### - Goivernance and Restoration
-### Biodiversity and Agriculture (upcomming)
+### Coauthored two BPBES reports (governance and restoration)
+### Coauthoring a new one Biodiversity and Agriculture (in preparation)
 ]
 ]
 
@@ -444,7 +443,7 @@ class: middle, center
 ---
 .left-column[
 # Future Research Plans
-###- Effects of climate change on forest security
+## Effects of climate change on forest security
 
 
 **Research Grant 30k €**
@@ -456,7 +455,7 @@ class: middle, center
 
 .right[
 
-### State of the forests and livelihoods
+### Assessing the role of forests for water, energy and food securities
 <img src="libs/vulne.png" width= 700>
 
 ]
@@ -466,7 +465,7 @@ class: middle, center
 ---
 .left-column[
 # Future Research Plans
-###- Biodiversity-Ecosystem Function Relationhships
+## Biodiversity-Ecosystem Function Relationhships
 **Research Grant 72k €**
 <img src="libs/cnpq.png" width= 450>
 <img src="libs/rsg.jpeg" width= 550>
@@ -496,20 +495,45 @@ class: middle, center
 ]
 
 ---
-# Training new scientists
+# Training new scientists (BSc)
 .pull-left[
 
-##- [Global Sustainability Science](https://www.uu.nl/bachelors/en/global-sustainability-science)
+## [Global Sustainability Science](https://www.uu.nl/bachelors/en/global-sustainability-science)
 
 <img src=libs/bsc.png width=380>
 ]
-
 .pull-right[
-##- [Sustainable Development](https://www.uu.nl/masters/en/sustainable-development)
+## Planed courses
+### Field-course of ecology and conservation of novel landscapes
+### Landscape ecology
+]
+---
+# Training new scientists (MSc)
+.pull-left[
+## [Sustainable Development](https://www.uu.nl/masters/en/sustainable-development)
 
 <img src=libs/master.png width=400>
 ]
+.pull-right[
+## Planed courses
+### Field-course of ecology and conservation of novel landscapes
+### Landscape ecology
+### Political ecology
+]
+---
+# Training new scientists (PhD)
+.pull-left[
+## Hiring on demand
 
+<img src=https://fplmelo.github.io/copernicus/images/cdeep.jpeg width=300>
+<img src= https://fplmelo.github.io/copernicus/images/wef.png width=300>
+]
+.pull-right[
+## [Brazil-Netherlands](https://www.netherlandsandyou.nl/documents/publications/2021/07/14/the-netherlands-and-brazil-20-showcases-of-collaboration-in-science-technology-and-innovation)
+### U Wageningen-UF Viçosa
+### [NWO-Fapesp](https://fapesp.br/12907/call-for-proposals-nwo-fapesp-joint-call-for-proposals-healthy-ageing)
+### [TU Delft-Unicamp](https://www.tudelft.nl/en/joint-research-centres/tu-delft-brazil)
+]
 ---
 # Fundraising
 .pull-left[

@@ -22,9 +22,9 @@ output: html_document
 
 ## How to navigate this site
 
-1. In the section **Slide presentation** you will find a short presentation on my research overview and a brief description on my past, present and future research plans.
+1. In the section **Slides presentation** you will find a short presentation on my research overview and a brief description on my past, present and future research plans.
 
-2. In the section **Researrch Vision** I offer some words that may help search committee to understand my research vision, philosophy and goals for the Copernicus Institute.
+2. In the section **Research Vision** I offer some words that may help search committee to understand my research vision, philosophy and goals for the Copernicus Institute.
 
 3. In the section **Teaching Overview** I briefly explain my approach to education, methods, practices and outputs as a teacher and student supervisor.
 

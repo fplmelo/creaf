@@ -8,7 +8,7 @@ output:
 navbar:
   title: "Home"
   left:
-    - text: "Slide presentation"
+    - text: "Slides presentation"
       href: research_overview.html
     - text: "Research Vision"
       href: research_statement.html
