@@ -156,6 +156,12 @@ xaringanExtra::use_panelset()
 ]]
 
 ---
+class: center, middle
+# My training on natural sciences gave me a robust backgroud in ecology. 
+# My interest on biodiversity conservation and applied sciences pushed me beyond. 
+# The seeds of interdisciplinarity were sown.
+
+---
 # PosDoc and NGO (2009-2011) 
 .panelset[
 .panel[.panel-name[Dual experience]
@@ -215,6 +221,10 @@ xaringanExtra::use_panelset()
 ]
 ]]]
 
+---
+class: center, middle
+# This dual experience improved my skils of fundraising and dialogue with diverse stakeholders 
+# This continues to date...
 
 ---
 class: middle, center
@@ -523,7 +533,7 @@ class: middle, center
 ---
 # Training new scientists (PhD)
 .pull-left[
-## Hiring on demand
+## Immediate 
 
 <img src=https://fplmelo.github.io/copernicus/images/cdeep.jpeg width=300>
 <img src= https://fplmelo.github.io/copernicus/images/wef.png width=300>
@@ -533,6 +543,7 @@ class: middle, center
 ### U Wageningen-UF Viçosa
 ### [NWO-Fapesp](https://fapesp.br/12907/call-for-proposals-nwo-fapesp-joint-call-for-proposals-healthy-ageing)
 ### [TU Delft-Unicamp](https://www.tudelft.nl/en/joint-research-centres/tu-delft-brazil)
+### Copernicus -???
 ]
 ---
 # Fundraising
