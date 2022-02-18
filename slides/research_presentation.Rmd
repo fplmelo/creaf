@@ -21,7 +21,6 @@ output:
 xaringanExtra::use_tile_view()
 xaringanExtra::use_scribble()
 xaringanExtra::use_fit_screen()
-xaringanExtra::style_share_again(share_buttons = c("twitter", "facebook"))
 library(xaringanExtra)
 ```
 
@@ -157,9 +156,8 @@ xaringanExtra::use_panelset()
 
 ---
 class: center, middle
-# My training on natural sciences gave me a robust backgroud in ecology. 
-# My interest on biodiversity conservation and applied sciences pushed me beyond. 
-# The seeds of interdisciplinarity were sown.
+# My training on natural sciences gave me a robust backgroud in ecology and biodiversity conservation
+# The seeds of interdisciplinarity were sown
 
 ---
 # PosDoc and NGO (2009-2011) 
@@ -223,8 +221,8 @@ class: center, middle
 
 ---
 class: center, middle
-# This dual experience improved my skils of fundraising and dialogue with diverse stakeholders 
-# This continues to date...
+# This dual experience put me on track of applied sciences 
+
 
 ---
 class: middle, center
@@ -246,10 +244,6 @@ class: middle, center
 ###- Administration (Vice-head of department and head of BSc degree)
 ]
 
----
-class: middle, center
-
-# Research Interests
 ---
 # Neotropical human-modified landscapes
 .panelset[
@@ -403,9 +397,9 @@ class: middle, center
 .panel[.panel-name[Research overview and publications]
 .pull-left[
 
-##- Sspatial prioritization, effectiveness of Protected Areas
+##- Spatial prioritization, effectiveness of Protected Areas
 ##- Conservation Policy
-##      - PES legislation, Conservation conflicts
+##- PES legislation, Conservation conflicts
 ##- Political Ecology
   - 
 
@@ -413,8 +407,8 @@ class: middle, center
 .pull-right[
 ## Selected publications
 
-<img src="libs/povert_park.png" width= 550>
-<img src="libs/eolic.png" width= 550>
+<img src="libs/povert_park.png" width= 350>
+<img src="libs/eolic.png" width= 350>
 ]]
 .panel[.panel-name[Creation of Protected Areas (video)]
 <iframe width="900" height="450" src="https://www.youtube.com/embed/rQHAgyrXims" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -533,20 +527,20 @@ class: middle, center
 ---
 # Training new scientists (PhD)
 .pull-left[
-## Immediate 
+## Diverse research projects 
 
 <img src=https://fplmelo.github.io/copernicus/images/cdeep.jpeg width=300>
 <img src= https://fplmelo.github.io/copernicus/images/wef.png width=300>
 ]
 .pull-right[
-## [Brazil-Netherlands](https://www.netherlandsandyou.nl/documents/publications/2021/07/14/the-netherlands-and-brazil-20-showcases-of-collaboration-in-science-technology-and-innovation)
+## [Brazil-The Netherlands collaboration](https://www.netherlandsandyou.nl/documents/publications/2021/07/14/the-netherlands-and-brazil-20-showcases-of-collaboration-in-science-technology-and-innovation)
 ### U Wageningen-UF Viçosa
 ### [NWO-Fapesp](https://fapesp.br/12907/call-for-proposals-nwo-fapesp-joint-call-for-proposals-healthy-ageing)
 ### [TU Delft-Unicamp](https://www.tudelft.nl/en/joint-research-centres/tu-delft-brazil)
 ### Copernicus -???
 ]
 ---
-# Fundraising
+# Fundraising potential
 .pull-left[
 
 

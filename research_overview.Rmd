@@ -10,7 +10,7 @@ output:
 
 ### Bellow I present an overview of my career
 
-**To activate fullscreen, please click with mouse in the presentation window and then press "f" on your keyborad. Use scroll or arrows to control slides. Active links are blue-collored and you might want to check them.**
+**To activate full screen, please click with mouse in the presentation window and then press "f" on your keyboard. Use scroll or arrows to control slides. Active links are blue-colored and you might want to check them.**
 
 ```{r, echo=FALSE}
 xaringanExtra::embed_xaringan(url="https://fplmelo.github.io/copernicus/slides/research_presentation.html#1", ratio = "16:9")
