@@ -432,10 +432,11 @@ class: middle, center
 
 ]]
 .panel[.panel-name[BPBES]
-## [Brazilian Platform of Biodiversity and Ecosystem Services](www.bpbes.net.br)
-### Merber of the Scientific Committee
+## [Brazilian Platform of Biodiversity and Ecosystem Services](https://www.bpbes.net.br/)
+### Member of the Scientific Committee
 ### Coauthored two BPBES reports (governance and restoration)
 ### Coauthoring a new one Biodiversity and Agriculture (in preparation)
+<img src=libs/bpbes.png>
 ]
 ]
 
