@@ -1,5 +1,5 @@
 ---
-title: "Slides presentation"
+title: "Research, teaching and outreach strategies"
 author: "Dr. Felipe Melo"
 date: "18/02/2022"
 output:
@@ -8,10 +8,10 @@ output:
 ---
 
 
-### Bellow I present an overview of my career
+### Bellow I present my reserach interests and plans, teaching philosphy and practice amd science outreach
 
-**To activate full screen, please click with mouse in the presentation window and then press "f" on your keyboard. Use scroll or arrows to control slides. Active links are blue-colored and you might want to check them.**
+**To activate full screen, please click with mouse in the presentation window and then press "f" on your keyboard. Use scroll or arrows to control slides.**
 
 ```{r, echo=FALSE}
-xaringanExtra::embed_xaringan(url="https://fplmelo.github.io/copernicus/slides/research_presentation.html#1", ratio = "16:9")
+xaringanExtra::embed_xaringan(url="https://fplmelo.github.io/copernicus/slides/presentation_2nd_roud.html#1", ratio = "16:9")
 ```

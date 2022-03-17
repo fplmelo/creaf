@@ -1,0 +1,482 @@
+---
+title: "Biodiversity and sustainable livelihoods in social-ecological landscapes"
+subtitle: "Reserach, teaching and outreach strategies"
+author: "Dr. Felipe Melo"
+institute: ""
+date: "`r Sys.Date()`"
+encoding: "UTF-8"
+output: 
+  xaringan::moon_reader:
+    libs_dir: libs
+    css: ["custom_slides.css", "default","default-fonts"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "macros.js"
+    
+---
+```{r, echo=FALSE}
+xaringanExtra::use_tile_view()
+xaringanExtra::use_scribble()
+xaringanExtra::use_fit_screen()
+library(xaringanExtra)
+library(xaringanthemer)
+```
+
+class: center, middle
+
+# Who am I?
+---
+
+# Permanent position at UFPE (January 2011 - Present)
+.pull-left[
+<img src=libs/ecoa.png>
+]
+.pull-right[
+## [Apllied Ecology Lab](www.ecoaplic.org)
+
+###- Research (>50 scientific papers)
+###- Teaching (various ecology courses)
+###- Supervising (6 PhD; 8 MSc; 15 BSc)
+###- Service (Scientific committees)
+###- Administration (Vice-head of department and head of BSc degree)
+]
+
+---
+# Presentation structure
+--
+
+##- Research interests and background
+--
+
+##- Science outreach achievements
+--
+
+##- Teaching philosophy and practice
+--
+
+##- Future plans for the Copernicus Institute
+
+---
+background-position: center
+background-size: cover
+background-image: url("libs/usga_land.png")
+class: center, middle
+--
+.content-box-gray[
+# Research interests and background]
+]
+
+---
+background-position: center
+background-size: cover
+background-image: url("libs/mahli.png")
+.pull-right[
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+[Malhi et al (2014) Annual Review of Environment and Resources](https://www.annualreviews.org/doi/abs/10.1146/annurev-environ-030713-155141)]
+
+
+---
+background-position: center
+background-size: cover
+background-image: url("libs/neoland.png")
+class: center
+--
+.content-box-gray[
+# Biotic homogenization]
+--
+.pull-left[
+<img src=libs/biotic.png width = 400>>
+<img src= libs/fewwiners.png width = 400>>
+<img src= libs/filgueiras.png width = 400>
+]
+
+--
+.pull-right[
+<img src= libs/fig_win.jpg width = 500>
+<img src=libs/boti.jpeg width = 150>
+<img src=libs/capes.jpg width = 70>
+]
+
+---
+background-position: center
+background-size: cover
+background-image: url("https://www.intechopen.com/media/chapter/45411/media/image1.png")
+class: center
+--
+.content-box-gray[
+# Responses of biodiersity to landscape structure
+]
+--
+.pull-left[
+<img src=libs/pathways.png width = 400>
+<img src= libs/beta_vic.png width = 400>
+<img src= libs/design_vic.png width = 400>]
+
+--
+.pull-right[
+<img src= libs/fig_vic.png width = 400>
+
+[Arroyo-Rodríguez et al 2020](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13535)
+
+<img src=libs/conacyt.png width = 70>
+<img src=libs/facepe.png width = 70>
+<img src=libs/cnpq.png width = 70>
+]
+
+---
+background-position: center
+background-size: cover
+background-image: url("https://mongabay-images.s3.amazonaws.com/1200/indonesia/indonesia_20152245.jpg")
+class: center
+--
+.content-box-gray[
+# Functional ecology
+]
+--
+.pull-left[
+<img src=libs/geb.png width = 400>
+<img src= libs/bae.png width = 400>
+]
+--
+.pull-right[
+<img src= libs/geb_fig.png width = 500>
+.content-box-gray[[Pinho et al 2021](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13309)]
+
+<img src=libs/facepe.png width = 70>
+<img src=libs/cnpq.png width = 70>
+]
+
+
+---
+background-position: center
+background-size: cover
+background-image: url("https://www.intechopen.com/media/chapter/45411/media/image1.png")
+class: center, middle
+--
+.content-box-gray[
+# Where are the people?
+]
+
+---
+background-position: center
+background-size: cover
+background-image: url("https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2018/10/destaque-5.jpg.webp")
+class: center
+--
+.content-box-gray[
+# Social-Ecological Landscapes
+]
+.pull-left[
+<img src= libs/sena_paper.png  width = 400>
+<img src=libs/specht.png width = 400>
+<img src= libs/calaca.png width = 400>
+
+]
+--
+.pull-right[
+<img src= libs/sena_fig.png width = 350>
+
+.content-box-gray[[Melo 2017](https://link.springer.com/chapter/10.1007/978-3-319-68339-3_14)]
+
+<img src=libs/facepe.png width = 70>
+<img src=libs/cnpq.png width = 70>
+]
+
+---
+background-position: center
+background-size: cover
+background-image: url("https://images.theconversation.com/files/436473/original/file-20211208-25-lwt6k2.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&h=501&fit=crop&dpr=1")
+class: center
+--
+.content-box-gray[
+# Political Ecology of Restoration
+]
+--
+.pull-left[
+<img src= libs/wef_paper.png width = 400>
+<img src=libs/priority.png width = 400>
+<img src= libs/meli.png  width = 400>
+]
+--
+.pull-right[
+<br><br><br>
+<img src= libs/wef.png width = 500>
+
+.content-box-gray[[Melo et al 2021](https://www.nature.com/articles/s41893-020-00608-z)]
+
+<img src=libs/funbio.jpg width = 90>
+<img src=libs/cnpq.png width = 70>]
+
+---
+background-position: center
+background-size: cover
+background-image: url("https://veja.abril.com.br/wp-content/uploads/2016/05/tatu-bola-brasilia-20040610-03-original2.jpeg?quality=70&strip=info&resize=680,453")
+class: center
+--
+.content-box-gray[
+# Conservation Biology
+]
+--
+.pull-left[
+<img src= libs/eolic.png width = 400>
+<img src= libs/fuleco1.png width = 400>
+<img src= libs/fuleco2.png  width = 400>
+]
+--
+.pull-right[
+<img src= libs/ipbes.png width = 500>
+]
+
+---
+background-position: center
+background-size: 80%
+background-image: url("libs/2.png")
+
+---
+background-position: center, middle
+background-size: 120%
+background-image: url("libs/teaching.jpeg")
+class: middle, center
+.content-box-gray[
+# Teaching philosophy and practice]
+
+---
+background-position: center, middle
+background-size: cover
+background-image: url("https://olhabempqbemtem.com.br/wp-content/uploads/2019/08/paulo-freire-2-800x445.jpg")
+class: center
+--
+.content-box-gray[
+# Paulo Freire's critical pedagogy
+]
+
+--
+<img src=libs/critical2.png width = 600>
+
+---
+background-position: center, middle
+background-size: cover
+background-image: url("https://olhabempqbemtem.com.br/wp-content/uploads/2019/08/paulo-freire-2-800x445.jpg")
+class: center
+
+.content-box-gray[
+# Paulo Freire's critical pedagogy
+]
+
+<img src=libs/critical1.png width = 600>
+
+---
+background-position: center, middle
+background-size: 100%
+background-image: url("https://ecoaplic.org/en/home/gallery/gallery/Curso%20chajul%20%2870%29.jpg")
+
+--
+class: center
+.content-box-gray[
+# Problem-based learning (PBL)
+]
+
+<img src=https://www.researchgate.net/profile/Julio-De-Oliveira-5/publication/317385233/figure/fig1/AS:502602636816384@1496841214053/Comparison-between-traditional-learning-and-PBL_W640.jpg>
+
+---
+background-position: center, middle
+background-size: 100%
+background-image: url("libs/cc.jpg")
+
+--
+class: center
+.content-box-gray[
+# Immersive field courses
+]
+.pull-left[
+<img src=libs/livro_cc.png width = 300>]
+.pull-right[
+<img src=libs/paper_estud.png width = 500>]
+]
+
+---
+background-position: center, middle
+background-size: 150%
+background-image: url("libs/jargon.jpg")
+class: center, middle
+.content-box-gray[
+# Science outreach]
+
+---
+# Science dissemination
+.left-column[
+## A weekly radio show on STEM [@olaboratiofm](https://www.instagram.com/olaboratoriofm/)
+### Organized by lab team <br> (PhD and PosDocs)
+### Public funds
+]
+.right-column[
+
+<img src=libs/labfm.png width = 650>
+]
+
+---
+# Science dissemination
+.left-column[
+## New languages
+### [Special issue on the Caatinga dryforest](https://pp.nexojornal.com.br/temas/?pagina=2&tema=Biodiversidade)
+
+<img src=libs/bpbes.png>
+]
+.right-column[
+
+<img src=libs/nexo.png width = 650>
+]
+
+---
+class: center, middle
+# How do my plans align with research at Copernicus Institute?
+
+---
+.left-column[
+
+## The Nexus Assessent of Human-dominated landscapes
+
+**Research Grant 70k£**
+<img src="libs/cnpq.png" width= 650>
+
+
+]
+.right-column[
+
+.right[
+
+### What is the contribution of nature to human livelihoods in tropical forests?
+<img src=libs/wef.png width= 700>
+
+]
+]
+
+---
+.left-column[
+## Forest~Livelihoods
+## Boom-and-bust development
+### ongoing PhD student
+####Alencar et al (in prep)
+
+<img src=libs/caat.jpg>
+]
+.right-column[
+.center[
+<img src=libs/forest_poverty.png width = 750>]]
+
+---
+.left-column[
+## cDEEP - Caatina Dry Ecosystem Ecological Program
+### How are biodiversity and ecosystem functions related in tropical ecosystems?
+**Research Grants of 68k £**
+
+<img src="libs/cnpq.png" width= 100>
+<img src="libs/funbio.jpg" width= 100>
+
+]
+.right-column[
+<iframe width="780" height="521" src="https://www.youtube.com/embed/C21RHdxeu3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+###- in partnership with [Dr. Thiago Gonçalves-Souza](https://scholar.google.com/citations?user=TjaP2l8AAAAJ&hl=pt-BR)
+]
+
+---
+# Training new scientists (BSc)
+.pull-left[
+
+## [Global Sustainability Science](https://www.uu.nl/bachelors/en/global-sustainability-science)
+
+<img src=libs/bsc_uu.png width=380>
+]
+.pull-right[
+## Planned courses
+### Field-course of ecology and conservation of novel landscapes
+### Landscape Ecology
+### Restoration Ecology
+]
+---
+# Training new scientists (MSc)
+.pull-left[
+## [Sustainable Development](https://www.uu.nl/masters/en/sustainable-development)
+
+<img src=libs/master.png width=400>
+]
+.pull-right[
+## Planned courses
+### Field-course in ecology and conservation of novel landscapes
+### Landscape Ecology
+### Political Ecology
+### Conservation in the Global South
+]
+---
+# Training new scientists (PhD)
+.pull-left[
+
+<img src=https://fplmelo.github.io/copernicus/images/cdeep.jpeg width=450>
+<img src= https://fplmelo.github.io/copernicus/images/wef.png width=450>
+]
+.pull-right[
+## [Brazil-The Netherlands collaboration](https://www.netherlandsandyou.nl/documents/publications/2021/07/14/the-netherlands-and-brazil-20-showcases-of-collaboration-in-science-technology-and-innovation)
+### - [NWO-Fapesp](https://fapesp.br/12907/call-for-proposals-nwo-fapesp-joint-call-for-proposals-healthy-ageing)
+### - [TU Delft-Unicamp](https://www.tudelft.nl/en/joint-research-centres/tu-delft-brazil)
+
+<img src=libs/collab_hol.png>
+]
+
+
+---
+# Expand collaboration networks
+.pull-left[
+## -Within Utrecht University
+## -New dedicated Research Group on **Social-Ecological Landscapes**
+## -Recruit BSC, MSC and PhD students
+]
+
+.pull-right[
+.content-box-gray[
+<img src=http://www.darwincenter.nl/App_Images/darwin_heading.png width = 600>]
+
+<img src=libs/land.png width = 400>
+
+<img src=libs/globalgoals.png width = 400>
+]
+
+
+---
+background-position: center
+background-size: 100%
+background-image: url("libs/sdg.png")
+
+---
+background-position: center
+background-size: contain
+background-image: url("libs/flux.png")
+
+---
+# Fundraising potential
+.pull-left[
+
+
+### Latin American sources
+<img src=libs/cnpq.png>
+
+<img src=libs/conacyt.png width = 200>
+
+]
+.pull-right[
+
+### European sources
+<img src=libs/erc_eu.png width = 250>
+<img src=libs/nwo.jpg width = 150>
+
+]
+---
+
+class: middle, center
+# Dank u well
+# Thank you
+# Obrigado

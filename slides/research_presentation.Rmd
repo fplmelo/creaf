@@ -505,7 +505,7 @@ class: middle, center
 
 ## [Global Sustainability Science](https://www.uu.nl/bachelors/en/global-sustainability-science)
 
-<img src=libs/bsc.png width=380>
+<img src=libs/bsc_uu.png width=380>
 ]
 .pull-right[
 ## Planed courses
