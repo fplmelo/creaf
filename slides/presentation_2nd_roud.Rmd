@@ -3,7 +3,7 @@ title: "Biodiversity and sustainable livelihoods in social-ecological landscapes
 subtitle: "Reserach, teaching and outreach strategies"
 author: "Dr. Felipe Melo"
 institute: ""
-date: "`r Sys.Date()`"
+date: ""
 encoding: "UTF-8"
 output: 
   xaringan::moon_reader:
@@ -15,7 +15,7 @@ output:
       countIncrementalSlides: false
       ratio: '16:9'
       beforeInit: "macros.js"
-    
+
 ---
 ```{r, echo=FALSE}
 xaringanExtra::use_tile_view()
@@ -233,6 +233,9 @@ class: center
 ]
 
 ---
+<iframe width="1100" height="600" src="https://www.youtube.com/embed/rQHAgyrXims" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 background-position: center
 background-size: 80%
 background-image: url("libs/2.png")
@@ -341,7 +344,7 @@ class: center, middle
 
 ## The Nexus Assessent of Human-dominated landscapes
 
-**Research Grant 70k£**
+**Research Grant 70k€**
 <img src="libs/cnpq.png" width= 650>
 
 
@@ -373,7 +376,7 @@ class: center, middle
 .left-column[
 ## cDEEP - Caatina Dry Ecosystem Ecological Program
 ### How are biodiversity and ecosystem functions related in tropical ecosystems?
-**Research Grants of 68k £**
+**Research Grants of 68k €**
 
 <img src="libs/cnpq.png" width= 100>
 <img src="libs/funbio.jpg" width= 100>
