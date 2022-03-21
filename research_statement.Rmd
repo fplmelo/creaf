@@ -1,7 +1,7 @@
 ---
 title: "Research Plans for the Copernicus Institute"
 author: "Felipe Melo"
-date: "18/02/2022"
+date: ""
 output: html_document
 ---
 
@@ -14,18 +14,18 @@ I strive to understand how biodiversity persists in human-modified landscapes. I
 "_... Preserving biodiversity is one of the major sustainability <br>
 challenges of our time, and strongly interacts with other sustainability<br>
 themes. Both the drivers and the impacts of biodiversity loss are <br>
-intertwined with natural and societal processes at various scales,<br>]
+intertwined with natural and societal processes at various scales,<br>
 ranging from local to global..._"
 
 My plans for the next years at the Copernicus Institute is to build a dedicated research group on **sustainable management of social-ecological landscapes**, working on the interface between ecological and social sciences. This is the result of the maturity and development of my critical thinking on the drivers of biodiversity rearrangements in human-dominated ecosystems. Landscapes are not naturally given, but constructed, even the “wildest” ones. Therefore, I believe that an integrated approach to biodiversity conservation demands the assessment of both human and non-human components of a landscape. 
 
 In the short to medium term, this research program aims to address the following questions: 
 
-1. What drives the resilience of both human and biodiversity in working tropical landscapes?
+1. What constitutes a good measure of "forest security" and why?
 2. How are biodiversity and ecosystem functions related in tropical ecosystems?
 3. What is the contribution of nature to human livelihoods in tropical forests? 
 
-The long-term goal is to create a synthesis working group aiming to quantify nature's contributions to people across tropical forests while assessing how human activities biodiversity in social-ecological landscapes. I draw on both conceptual and analytical tools from landscape ecology, functional ecology and social-ecological systems frameworks. This also matches the  profile of the scholar in the job advertisement:
+The long-term goal is to create a synthesis working group aiming to quantify nature's contributions to people across tropical forests while assessing how human activities affects biodiversity in social-ecological landscapes. I draw on both conceptual and analytical tools from landscape ecology, functional ecology and social-ecological systems frameworks. This also matches the  profile of the scholar in the job advertisement:
 
 "_...You have a systems approach (e.g., social-ecological systems, complexity or nexus approaches) <br>
 and are able to integrate across multiple disciplines and scales..._"
