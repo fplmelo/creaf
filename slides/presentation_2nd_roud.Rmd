@@ -109,7 +109,7 @@ background-image: url("https://www.intechopen.com/media/chapter/45411/media/imag
 class: center
 --
 .content-box-gray[
-# Responses of biodiersity to landscape structure
+# Responses of plants to landscape structure
 ]
 --
 .pull-left[
@@ -181,10 +181,7 @@ class: center
 .pull-right[
 <img src= libs/sena_fig.png width = 350>
 
-.content-box-gray[[Melo 2017](https://link.springer.com/chapter/10.1007/978-3-319-68339-3_14)]
-
-<img src=libs/facepe.png width = 70>
-<img src=libs/cnpq.png width = 70>
+.content-box-gray[[Sena et al 2021](https://onlinelibrary.wiley.com/doi/full/10.1111/rec.13599)]
 ]
 
 ---
@@ -233,7 +230,7 @@ background-image: url("https://olhabempqbemtem.com.br/wp-content/uploads/2019/08
 class: center
 --
 .content-box-gray[
-# Paulo Freire's critical pedagogy
+# Paulo Freire's **critical pedagogy**
 ]
 
 --
@@ -246,7 +243,7 @@ background-image: url("https://olhabempqbemtem.com.br/wp-content/uploads/2019/08
 class: center
 
 .content-box-gray[
-# Paulo Freire's critical pedagogy
+# Paulo Freire's **critical pedagogy**
 ]
 
 <img src=libs/critical1.png width = 600>
@@ -262,7 +259,7 @@ class: center
 # Problem-based learning (PBL)
 ]
 
-<img src=https://www.researchgate.net/profile/Julio-De-Oliveira-5/publication/317385233/figure/fig1/AS:502602636816384@1496841214053/Comparison-between-traditional-learning-and-PBL_W640.jpg>
+<img src=https://www.researchgate.net/profile/Julio-De-Oliveira-5/publication/317385233/figure/fig1/AS:502602636816384@1496841214053/Comparison-between-traditional-learning-and-PBL_W640.jpg width = 800>
 
 ---
 background-position: center, middle
@@ -381,8 +378,12 @@ class: center
 <iframe width="1100" height="600" src="https://www.youtube.com/embed/rQHAgyrXims" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+background-position: center, middle
+background-size: contain
+background-image: url("https://academyscout.com/wazito/upload/288072339.jpg")
 class: center, middle
-# How do my plans align with research at Copernicus Institute?
+.content-box-gray[
+# How do my plans align with research at Copernicus Institute?]
 
 ---
 class: center, middle
