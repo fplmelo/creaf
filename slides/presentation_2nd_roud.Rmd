@@ -79,7 +79,11 @@ background-image: url("libs/mahli.png")
 
 [Malhi et al (2014) Annual Review of Environment and Resources](https://www.annualreviews.org/doi/abs/10.1146/annurev-environ-030713-155141)]
 
+---
+background-color: "#52006a"
+class: center, middle
 
+# Basic sciences (Natural Sciences)
 ---
 background-position: center
 background-size: cover
@@ -226,7 +230,7 @@ class: middle, center
 ---
 background-position: center, middle
 background-size: cover
-background-image: url("https://olhabempqbemtem.com.br/wp-content/uploads/2019/08/paulo-freire-2-800x445.jpg")
+background-image: url("libs/freire.jpg")
 class: center
 --
 .content-box-gray[
@@ -239,7 +243,7 @@ class: center
 ---
 background-position: center, middle
 background-size: cover
-background-image: url("https://olhabempqbemtem.com.br/wp-content/uploads/2019/08/paulo-freire-2-800x445.jpg")
+background-image: url("libs/freire.jpg")
 class: center
 
 .content-box-gray[
@@ -250,16 +254,16 @@ class: center
 
 ---
 background-position: center, middle
-background-size: 100%
-background-image: url("https://ecoaplic.org/en/home/gallery/gallery/Curso%20chajul%20%2870%29.jpg")
+background-size: cover
+background-image: url("libs/curso_chajul.jpg")
 
 --
 class: center
 .content-box-gray[
-# Problem-based learning (PBL)
+# Real-world problem solving
 ]
 
-<img src=https://www.researchgate.net/profile/Julio-De-Oliveira-5/publication/317385233/figure/fig1/AS:502602636816384@1496841214053/Comparison-between-traditional-learning-and-PBL_W640.jpg width = 800>
+<img src=libs/pbl.jpg width = 800>
 
 ---
 background-position: center, middle
@@ -269,7 +273,7 @@ background-image: url("libs/cc.jpg")
 --
 class: center
 .content-box-gray[
-# Immersive field courses
+# Real-world problem solving
 ]
 .pull-left[
 <img src=libs/livro_cc.png width = 300>]
@@ -357,7 +361,7 @@ class: center, middle
 ---
 background-position: center
 background-size: cover
-background-image: url("https://veja.abril.com.br/wp-content/uploads/2016/05/tatu-bola-brasilia-20040610-03-original2.jpeg?quality=70&strip=info&resize=680,453")
+background-image: url("libs/tatu2.png")
 class: center
 --
 .content-box-gray[
@@ -380,7 +384,7 @@ class: center
 ---
 background-position: center, middle
 background-size: contain
-background-image: url("https://academyscout.com/wazito/upload/288072339.jpg")
+background-image: url("libs/research_plan.jpg")
 class: center, middle
 .content-box-gray[
 # How do my plans align with research at Copernicus Institute?]
@@ -393,7 +397,7 @@ class: center, middle
 ---
 background-position: center, middle
 background-size: cover
-background-image: url("https://semiaridovivo.org/wp-content/uploads/2020/08/Passo5_2015071617_piaui_saojoaodaserra_rotina_da_familia_mauriciopokemon-800x400.jpg")
+background-image: url("libs/homen_caatinga.jpg")
 class: center, middle
 
 .content-box-gray[
@@ -482,6 +486,24 @@ class: center, middle
 .center[
 <img src=libs/forest_poverty.png width = 750>]]
 
+---
+# Fundraising potential
+.pull-left[
+
+
+### Latin American sources
+<img src=libs/cnpq.png>
+
+<img src=libs/conacyt.png width = 200>
+
+]
+.pull-right[
+
+### European sources
+<img src=libs/erc_eu.png width = 250>
+<img src=libs/nwo.jpg width = 150>
+
+]
 
 ---
 # Expand collaboration networks
@@ -511,24 +533,7 @@ background-position: center
 background-size: contain
 background-image: url("libs/flux.png")
 
----
-# Fundraising potential
-.pull-left[
 
-
-### Latin American sources
-<img src=libs/cnpq.png>
-
-<img src=libs/conacyt.png width = 200>
-
-]
-.pull-right[
-
-### European sources
-<img src=libs/erc_eu.png width = 250>
-<img src=libs/nwo.jpg width = 150>
-
-]
 ---
 
 class: middle, center
