@@ -23,28 +23,13 @@ xaringanExtra::use_scribble()
 xaringanExtra::use_fit_screen()
 library(xaringanExtra)
 library(xaringanthemer)
+style_xaringan(
+
+  background_color = "#F5F5F2"
+
+)
 ```
 
-class: center, middle
-
-# Who am I?
----
-
-# Permanent position at UFPE (January 2011 - Present)
-.pull-left[
-<img src=libs/ecoa.png>
-]
-.pull-right[
-## [Apllied Ecology Lab](www.ecoaplic.org)
-
-###- Research (>50 scientific papers)
-###- Teaching (various ecology courses)
-###- Supervising (6 PhD; 8 MSc; 15 BSc)
-###- Service (Scientific committees)
-###- Administration (Vice-head of department and head of BSc degree)
-]
-
----
 # Presentation structure
 --
 
@@ -58,6 +43,21 @@ class: center, middle
 --
 
 ##- Future plans for the Copernicus Institute
+
+---
+# Permanent position at UFPE (January 2011 - Present)
+.pull-left[
+<img src=libs/ecoa.png>
+]
+.pull-right[
+## [Apllied Ecology Lab](www.ecoaplic.org)
+
+###- Research (>50 scientific papers)
+###- Teaching (various ecology courses)
+###- Supervising (6 PhD; 8 MSc; 15 BSc)
+###- Service (Diverse scientific committees)
+###- Administration (Vice-head of department and head of BSc degree)
+]
 
 ---
 background-position: center
@@ -79,7 +79,12 @@ background-image: url("libs/mahli.png")
 
 [Malhi et al (2014) Annual Review of Environment and Resources](https://www.annualreviews.org/doi/abs/10.1146/annurev-environ-030713-155141)]
 
+---
+backgound-color:
+class: center, middle
 
+## Basic sciences
+# How is biodiversity organized in human-modifired landscapes?
 ---
 background-position: center
 background-size: cover
@@ -109,19 +114,18 @@ background-image: url("https://www.intechopen.com/media/chapter/45411/media/imag
 class: center
 --
 .content-box-gray[
-# Responses of biodiersity to landscape structure
+# Landscape ecology
 ]
 --
 .pull-left[
 <img src=libs/pathways.png width = 400>
-<img src= libs/beta_vic.png width = 400>
+<img src= libs/sedlings.png width = 400>
 <img src= libs/design_vic.png width = 400>]
 
 --
 .pull-right[
-<img src= libs/fig_vic.png width = 400>
+<img src= libs/sec_suc.png width = 500>
 
-[Arroyo-Rodríguez et al 2020](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13535)
 
 <img src=libs/conacyt.png width = 70>
 <img src=libs/facepe.png width = 70>
@@ -153,14 +157,9 @@ class: center
 
 
 ---
-background-position: center
-background-size: cover
-background-image: url("https://www.intechopen.com/media/chapter/45411/media/image1.png")
 class: center, middle
---
-.content-box-gray[
-# Where are the people?
-]
+## Applied Sciences
+# How people benefit from biodiveirsity?
 
 ---
 background-position: center
@@ -181,10 +180,7 @@ class: center
 .pull-right[
 <img src= libs/sena_fig.png width = 350>
 
-.content-box-gray[[Melo 2017](https://link.springer.com/chapter/10.1007/978-3-319-68339-3_14)]
-
-<img src=libs/facepe.png width = 70>
-<img src=libs/cnpq.png width = 70>
+.content-box-gray[[Sena et al 2021](https://onlinelibrary.wiley.com/doi/full/10.1111/rec.13599)]
 ]
 
 ---
@@ -229,11 +225,11 @@ class: middle, center
 ---
 background-position: center, middle
 background-size: cover
-background-image: url("https://olhabempqbemtem.com.br/wp-content/uploads/2019/08/paulo-freire-2-800x445.jpg")
+background-image: url("libs/freire.jpg")
 class: center
 --
 .content-box-gray[
-# Paulo Freire's critical pedagogy
+# Paulo Freire's **critical pedagogy**
 ]
 
 --
@@ -242,27 +238,27 @@ class: center
 ---
 background-position: center, middle
 background-size: cover
-background-image: url("https://olhabempqbemtem.com.br/wp-content/uploads/2019/08/paulo-freire-2-800x445.jpg")
+background-image: url("libs/freire.jpg")
 class: center
 
 .content-box-gray[
-# Paulo Freire's critical pedagogy
+# Paulo Freire's **critical pedagogy**
 ]
 
 <img src=libs/critical1.png width = 600>
 
 ---
 background-position: center, middle
-background-size: 100%
-background-image: url("https://ecoaplic.org/en/home/gallery/gallery/Curso%20chajul%20%2870%29.jpg")
+background-size: cover
+background-image: url("libs/curso_chajul.jpg")
 
 --
 class: center
 .content-box-gray[
-# Problem-based learning (PBL)
+# Real-world problem solving
 ]
 
-<img src=https://www.researchgate.net/profile/Julio-De-Oliveira-5/publication/317385233/figure/fig1/AS:502602636816384@1496841214053/Comparison-between-traditional-learning-and-PBL_W640.jpg>
+<img src=libs/pbl.jpg width = 800>
 
 ---
 background-position: center, middle
@@ -272,13 +268,14 @@ background-image: url("libs/cc.jpg")
 --
 class: center
 .content-box-gray[
-# Immersive field courses
+# in-Field learning
 ]
 .pull-left[
-<img src=libs/livro_cc.png width = 300>]
+<img src=libs/livro_cc.png width = 350>]
 .pull-right[
-<img src=libs/paper_estud.png width = 500>]
-]
+<img src=libs/paper_estud.png width = 500>
+<img src=libs/cc_paper.png width = 500>]
+
 
 ---
 # Training new scientists (BSc)
@@ -360,7 +357,7 @@ class: center, middle
 ---
 background-position: center
 background-size: cover
-background-image: url("https://veja.abril.com.br/wp-content/uploads/2016/05/tatu-bola-brasilia-20040610-03-original2.jpeg?quality=70&strip=info&resize=680,453")
+background-image: url("libs/tatu2.png")
 class: center
 --
 .content-box-gray[
@@ -381,8 +378,12 @@ class: center
 <iframe width="1100" height="600" src="https://www.youtube.com/embed/rQHAgyrXims" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+background-position: center, middle
+background-size: contain
+background-image: url("libs/research_plan.jpg")
 class: center, middle
-# How do my plans align with research at Copernicus Institute?
+.content-box-gray[
+# How do my plans align with research at Copernicus Institute?]
 
 ---
 class: center, middle
@@ -392,12 +393,46 @@ class: center, middle
 ---
 background-position: center, middle
 background-size: cover
-background-image: url("https://semiaridovivo.org/wp-content/uploads/2020/08/Passo5_2015071617_piaui_saojoaodaserra_rotina_da_familia_mauriciopokemon-800x400.jpg")
+background-image: url("libs/homen_caatinga.jpg")
 class: center, middle
 
 .content-box-gray[
-# Q1) What is "forest security" and why?]
+# Q1) What is the contribution of nature to human livelihoods in tropical forests?
+]
 
+---
+.left-column[
+
+## The Nexus Assessent of Human-dominated landscapes
+
+**Research Grant 70k€**
+<img src="libs/cnpq.png" width= 650>
+
+
+]
+.right-column[
+
+.right[
+<br><br>
+<br><br>
+<img src=libs/wef.png width= 800>
+
+[Melo et al (2021)](https://www.nature.com/articles/s41893-020-00608-z)
+]
+]
+
+---
+.left-column[
+## Forest~Livelihoods
+## Boom-and-bust development
+### ongoing PhD student
+####Alencar et al (in prep)
+
+<img src=libs/caat.jpg>
+]
+.right-column[
+.center[
+<img src=libs/forest_poverty.png width = 750>]]
 ---
 background-position: center, middle
 background-size: contain
@@ -438,49 +473,26 @@ class: center, middle
 ]
 
 ---
-background-position: center, middle
 background-size: cover
-background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/51/Living_root_bridges%2C_Nongriat_village%2C_Meghalaya2.jpg")
-class: center, middle
+background-image: url("libs/cdeep_result.png")
 
-.content-box-gray[
-# Q3) What is the contribution of nature to human livelihoods in tropical forests?
-]
+.content-box-gray[Carmo et al (under review)]
 
 ---
-.left-column[
+# Fundraising strategy
+.pull-left[
+## Public funds
 
-## The Nexus Assessent of Human-dominated landscapes
-
-**Research Grant 70k€**
-<img src="libs/cnpq.png" width= 650>
-
+<img src=libs/erc_eu.png width = 250>
+<img src=libs/nwo.jpg width = 150>
 
 ]
-.right-column[
-
-.right[
-<br><br>
-<br><br>
-<img src=libs/wef.png width= 800>
-
-[Melo et al (2021)](https://www.nature.com/articles/s41893-020-00608-z)
+.pull-right[
+## Duverse sources
+<img src= libs/horizon.png>
+<img src=libs/efc.jpg width = 150>
+<img src= libs/biodiversa.png>
 ]
-]
-
----
-.left-column[
-## Forest~Livelihoods
-## Boom-and-bust development
-### ongoing PhD student
-####Alencar et al (in prep)
-
-<img src=libs/caat.jpg>
-]
-.right-column[
-.center[
-<img src=libs/forest_poverty.png width = 750>]]
-
 
 ---
 # Expand collaboration networks
@@ -505,29 +517,6 @@ background-position: center
 background-size: 100%
 background-image: url("libs/sdg.png")
 
----
-background-position: center
-background-size: contain
-background-image: url("libs/flux.png")
-
----
-# Fundraising potential
-.pull-left[
-
-
-### Latin American sources
-<img src=libs/cnpq.png>
-
-<img src=libs/conacyt.png width = 200>
-
-]
-.pull-right[
-
-### European sources
-<img src=libs/erc_eu.png width = 250>
-<img src=libs/nwo.jpg width = 150>
-
-]
 ---
 
 class: middle, center
