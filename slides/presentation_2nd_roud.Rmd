@@ -504,7 +504,7 @@ background-image: url("libs/cdeep_result.png")
 
 .pull-right[
 .content-box-gray[
-<img src=http://www.darwincenter.nl/App_Images/darwin_heading.png width = 600>]
+<img src=libs/darwin_heading.png width = 600>]
 
 <img src=libs/land.png width = 400>
 
