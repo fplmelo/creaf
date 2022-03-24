@@ -488,7 +488,7 @@ background-image: url("libs/cdeep_result.png")
 
 ]
 .pull-right[
-## Duverse sources
+## Diverse sources
 <img src= libs/horizon.png>
 <img src=libs/efc.jpg width = 150>
 <img src= libs/biodiversa.png>
