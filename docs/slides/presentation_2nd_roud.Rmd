@@ -45,21 +45,6 @@ style_xaringan(
 ##- Future plans for the Copernicus Institute
 
 ---
-# Permanent position at UFPE (January 2011 - Present)
-.pull-left[
-<img src=libs/ecoa.png>
-]
-.pull-right[
-## [Apllied Ecology Lab](www.ecoaplic.org)
-
-###- Research (>50 scientific papers)
-###- Teaching (various ecology courses)
-###- Supervising (6 PhD; 8 MSc; 15 BSc)
-###- Service (Diverse scientific committees)
-###- Administration (Vice-head of department and head of BSc degree)
-]
-
----
 background-position: center
 background-size: cover
 background-image: url("libs/usga_land.png")
@@ -238,18 +223,6 @@ class: center
 ---
 background-position: center, middle
 background-size: cover
-background-image: url("libs/freire.jpg")
-class: center
-
-.content-box-gray[
-# Paulo Freire's **critical pedagogy**
-]
-
-<img src=libs/critical1.png width = 600>
-
----
-background-position: center, middle
-background-size: cover
 background-image: url("libs/curso_chajul.jpg")
 
 --
@@ -387,7 +360,7 @@ class: center, middle
 
 ---
 class: center, middle
-# Research group:
+# Research program:
 # **Sustainable management of social-ecological landscapes**
 
 ---
@@ -438,11 +411,6 @@ background-size: contain
 background-image: url("libs/for_sec.png")
 
 ---
-background-position: center, middle
-background-size: contain
-background-image: url("libs/ISIEE.png")
-
----
 background-image: url("libs/vulne.png")
 background-size: cover
 
@@ -476,6 +444,11 @@ background-size: cover
 background-image: url("libs/cdeep_result.png")
 
 .content-box-gray[Carmo et al (under review)]
+
+---
+background-position: center, middle
+background-size: contain
+background-image: url("libs/ISIEE.png")
 
 ---
 # Fundraising strategy
@@ -519,6 +492,6 @@ background-image: url("libs/sdg.png")
 ---
 
 class: middle, center
-# Dank u well
+# Dankuwel
 # Thank you
 # Obrigado
