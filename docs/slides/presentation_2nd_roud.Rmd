@@ -144,7 +144,7 @@ class: center
 ---
 class: center, middle
 ## Applied Sciences
-# How people benefit from biodiveirsity?
+# How people benefit from biodiversity?
 
 ---
 background-position: center
