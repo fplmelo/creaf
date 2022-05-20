@@ -1,5 +1,5 @@
 ---
-title: "Biodiversity and sustainable livelihoods in social-ecological landscapes"
+title: "Biodiversity and livelihoods in social-ecological landscapes"
 subtitle: "Reserach, teaching and outreach strategies"
 author: "Dr. Felipe Melo"
 institute: ""
@@ -95,7 +95,7 @@ class: center
 ---
 background-position: center
 background-size: cover
-background-image: url("https://www.intechopen.com/media/chapter/45411/media/image1.png")
+background-image: url("libs/landscape.png")
 class: center
 --
 .content-box-gray[
@@ -120,7 +120,7 @@ class: center
 ---
 background-position: center
 background-size: cover
-background-image: url("https://mongabay-images.s3.amazonaws.com/1200/indonesia/indonesia_20152245.jpg")
+background-image: url("libs/frag_land.jpg")
 class: center
 --
 .content-box-gray[
@@ -171,7 +171,7 @@ class: center
 ---
 background-position: center
 background-size: cover
-background-image: url("https://images.theconversation.com/files/436473/original/file-20211208-25-lwt6k2.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&h=501&fit=crop&dpr=1")
+background-image: url("libs/pasto.png")
 class: center
 --
 .content-box-gray[
@@ -302,8 +302,8 @@ background-image: url("libs/cc_mex.jpeg")
 # Training new scientists (PhD)
 .pull-left[
 
-<img src=https://fplmelo.github.io/copernicus/images/cdeep.jpeg width=450>
-<img src= https://fplmelo.github.io/copernicus/images/wef.png width=450>
+<img src= libs/cdeep.jpeg width=450>
+<img src= libs/wef.png width=450>
 ]
 .pull-right[
 ## [Brazil-The Netherlands collaboration](https://www.netherlandsandyou.nl/documents/publications/2021/07/14/the-netherlands-and-brazil-20-showcases-of-collaboration-in-science-technology-and-innovation)
@@ -437,7 +437,7 @@ background-size: cover
 ---
 background-position: center, middle
 background-size: cover
-background-image: url("https://www.peer.eu/files/user_upload/user_upload/tropical_forest_fragmentation770px.jpg")
+background-image: url("libs/frag_land2.jpg")
 class: center, middle
 
 .content-box-gray[
