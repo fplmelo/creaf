@@ -1,5 +1,5 @@
 ---
-title: "Biodiversity and livelihoods in social-ecological landscapes"
+title: "Biodiversity in social-ecological landscapes"
 subtitle: "Reserach, teaching and outreach strategies"
 author: "Dr. Felipe Melo"
 institute: ""
@@ -70,7 +70,6 @@ background-image: url("libs/mahli.png")
 backgound-color:
 class: center, middle
 
-## Basic sciences
 # How is biodiversity organized in human-modified landscapes?
 ---
 background-position: center
@@ -145,7 +144,6 @@ class: center
 
 ---
 class: center, middle
-## Applied Sciences
 # How people benefit from biodiversity?
 
 ---
@@ -301,22 +299,6 @@ background-image: url("libs/cc_mex.jpeg")
 
 
 ---
-# Training new scientists (PhD)
-.pull-left[
-
-<img src= libs/cdeep.jpeg width=450>
-<img src= libs/wef.png width=450>
-]
-.pull-right[
-## [Brazil-The Netherlands collaboration](https://www.netherlandsandyou.nl/documents/publications/2021/07/14/the-netherlands-and-brazil-20-showcases-of-collaboration-in-science-technology-and-innovation)
-### - [NWO-Fapesp](https://fapesp.br/12907/call-for-proposals-nwo-fapesp-joint-call-for-proposals-healthy-ageing)
-### - [TU Delft-Unicamp](https://www.tudelft.nl/en/joint-research-centres/tu-delft-brazil)
-
-<img src=libs/collab_hol.png>
-]
-
-
----
 background-position: center, middle
 background-size: 150%
 background-image: url("libs/jargon.jpg")
@@ -383,7 +365,7 @@ class: center, middle
 ---
 class: center, middle
 # Research program:
-# **Sustainable management of social-ecological landscapes**
+# **Biodiversity in social-ecological landscapes**
 
 ---
 background-position: center, middle
@@ -398,7 +380,8 @@ class: center, middle
 ---
 .left-column[
 
-## The Nexus Assessent of Human-dominated landscapes
+## Forest security  
+##The role of forest for people in working landscapes
 
 **Research Grant 70k€**
 <img src="libs/cnpq.png" width= 650>
@@ -418,7 +401,7 @@ class: center, middle
 
 ---
 .left-column[
-## Forest~Livelihoods
+## Forest~Poverty
 ## Boom-and-bust development
 ####Alencar et al (in prep)
 
@@ -427,10 +410,6 @@ class: center, middle
 .right-column[
 .center[
 <img src=libs/forest_poverty.png width = 750>]]
----
-background-position: center, middle
-background-size: contain
-background-image: url("libs/for_sec.png")
 
 ---
 background-image: url("libs/vulne.png")
@@ -467,13 +446,9 @@ background-image: url("libs/cdeep_result.png")
 
 .content-box-gray[Carmo et al (under review)]
 
----
-background-position: center, middle
-background-size: contain
-background-image: url("libs/ISIEE.png")
 
 ---
-# Fundraising strategy
+# Fundraising strategy: <span style="color:red"> Biodiversity in working landscapes</span> 
 .pull-left[
 ## Public funds
 
@@ -491,8 +466,7 @@ background-image: url("libs/ISIEE.png")
 ---
 # Expand collaboration networks
 .pull-left[
-## -Within Utrecht University
-## -New dedicated Research Group on **Social-Ecological Landscapes**
+## -New dedicated Research Group: **Biodiversity in Social-Ecological Landscapes**
 ## -Recruit BSC, MSC and PhD students
 ]
 
