@@ -13,5 +13,5 @@ output:
 **To activate full screen, please click with mouse in the presentation window and then press "f" on your keyboard. Use scroll or arrows to control slides.**
 
 ```{r, echo=FALSE}
-xaringanExtra::embed_xaringan(url="https://fplmelo.github.io/copernicus/slides/presentation_2nd_roud.html#1", ratio = "16:9")
+xaringanExtra::embed_xaringan(url="https://fplmelo.github.io/copernicus/slides/presentation_2nd_roud.html", ratio = "16:9")
 ```
