@@ -1,6 +1,6 @@
 ---
 title: "Biodiversity in social-ecological landscapes"
-subtitle: "Reserach, teaching and outreach strategies"
+subtitle: "Research, teaching and outreach strategies"
 author: "Dr. Felipe Melo"
 institute: ""
 date: ""
