@@ -14,7 +14,7 @@
 
 <title>Teaching philosophy, practice and pedagogical backgrounds</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -61,6 +61,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -81,6 +82,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -138,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -233,7 +241,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -252,7 +260,7 @@ $(document).ready(function () {
   <a href="teaching_statement.html">Teaching Overview</a>
 </li>
 <li>
-  <a href="why_ci.html">Why Copernicus Institute?</a>
+  <a href="why_ci.html">Why NTU?</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -273,18 +281,16 @@ pedagogical backgrounds</h1>
 </div>
 
 
-<p>“<em>…You are an inspiring teacher who enjoys educating <br> the
-change-makers of the future…</em>”</p>
 <div id="teaching-overview" class="section level2">
 <h2><strong>Teaching overview</strong></h2>
-<p>Being a teacher is amongst the most rewarding aspects of my career as
-a biologist and I believe that teaching must go hand in hand with
-research development. Teaching science is revolutionary in many ways
-because it changes points of views and challenges beliefs and dogmas.
-Early in my career I mirrored the science teachers and science
-popularization authors whose mission was to serve as a “candle in the
-dark in a demon-haunted world”, quoting Carl’s Sagan famous book. I am
-an enthusiastic practitioner of <a
+<p>Being a teacher is among the most rewarding aspects of my career as a
+biologist and I believe that teaching must go hand in hand with research
+development. Teaching science is revolutionary in many ways because it
+changes points of views and challenges beliefs and dogmas. Early in my
+career I mirrored the science teachers and science popularization
+authors whose mission was to serve as a “candle in the dark in a
+demon-haunted world”, quoting Carl’s Sagan famous book. I am an
+enthusiastic practitioner of <a
 href="https://en.wikipedia.org/wiki/Paulo_Freire">Paulo Freire’s
 critical pedagogy</a>. Freire’s ideas are based on the fact that
 literacy in general but also science literacy, must be committed to the
@@ -299,9 +305,6 @@ teaching practice.</p>
 pedagogy anchored on active methods of learning through problem-based
 methods. My favorite learning and teaching experiences are largely based
 on ‘learning by doing’ and ‘project-based learning’ methods.</p>
-<p>“<em>…We expect you to contribute to field courses and <br> general
-courses on land use, biodiversity <br> and related sustainability
-topics…</em>”</p>
 <p>I have coordinated, co-organized or participated in over 30
 field-courses of ecology and conservation across many states of <a
 href="https://sites.google.com/site/cursocaatinga/home?authuser=1">Brazil</a>
@@ -326,10 +329,6 @@ href="https://ecoaplic.org/en/courses/">my personal website</a>).</p>
 </div>
 <div id="student-supervision-and-mentoring" class="section level2">
 <h2><strong>Student supervision and mentoring</strong></h2>
-<p>“<em>…you will be involved in supervising PhD students and postdocs.
-<br> You will teach in the Bachelor’s programme Global Sustainability
-Science <br> and in the Master’s programme Sustainable
-Development…</em>”</p>
 <p>As a supervisor and laboratory leader, I try to keep my team as
 diverse as possible in terms of gender, race and social classes. My
 philosophy and practice as supervisor is based on stimulating students

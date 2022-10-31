@@ -1,5 +1,5 @@
 ---
-title: "Selection Process for Copernicus Institute at Utrecht University"
+title: "Selection Process for Nottingham Trent University"
 output: html_document
    
 ---
@@ -18,7 +18,7 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Selection Process for Copernicus Institute**
+# **Selection Process for Nottingham Trent University**
 
 ## How to navigate this site
 
@@ -28,14 +28,14 @@ output: html_document
 
 3. In the section **Teaching Overview** I briefly explain my approach to education, methods, practices and outputs.
 
-4. In the section **Why Copernicus Institute?** I highlight some congruences between my career plans and the scholar profile of the job advertisement.
+4. In the section **Why NTU?** I highlight some congruences between my career plans and the scholar profile of the job advertisement.
 
 *Note: I use several quotes extracted from the job advertisement as to demonstrate that my profile matches with the job.*
 
 </div>
 <div class="col-sm-6">
 
-![](images/uu-logo.png)
+![](images/ntu.webp)
 
 
 

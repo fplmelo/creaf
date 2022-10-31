@@ -1,4 +1,4 @@
-name: "Utrecht University"
+name: "Nottingham Trent University"
 output_dir: "docs"
 output:  
   html_document:  
@@ -14,6 +14,6 @@ navbar:
       href: research_statement.html
     - text: "Teaching Overview"
       href: teaching_statement.html
-    - text: "Why Copernicus Institute?"
+    - text: "Why NTU?"
       href: why_ci.html
     

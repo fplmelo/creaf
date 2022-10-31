@@ -12,9 +12,9 @@
 <meta name="author" content="Felipe Melo" />
 
 
-<title>Research Plans for the Copernicus Institute</title>
+<title>Research Plans for the Nottingham Trent University</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -61,6 +61,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -81,6 +82,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -138,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -233,7 +241,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -252,7 +260,7 @@ $(document).ready(function () {
   <a href="teaching_statement.html">Teaching Overview</a>
 </li>
 <li>
-  <a href="why_ci.html">Why Copernicus Institute?</a>
+  <a href="why_ci.html">Why NTU?</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -266,8 +274,8 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Research Plans for the Copernicus
-Institute</h1>
+<h1 class="title toc-ignore">Research Plans for the Nottingham Trent
+University</h1>
 <h4 class="author">Felipe Melo</h4>
 
 </div>
@@ -285,7 +293,7 @@ activities that take place in working landscapes such as rangelands,
 farmlands, peri-urban and fragmented landscapes.</p>
 <p>I strive to understand how biodiversity persists in human-modified
 landscapes. I have been addressing this question though different
-apporaches such as: The role of human-modified landscapes in maintaining
+approaches such as: The role of human-modified landscapes in maintaining
 biodiversity <a
 href="https://www.sciencedirect.com/science/article/abs/pii/S0169534713000037"><sup>1<sup></a>;
 How proliferation of disturbance-adapted species cause biotic
@@ -301,17 +309,9 @@ Recently, I introduced the novel concept of “forest security” as a
 fourth dimension for the water, energy and food security nexus <a
 href="https://www.nature.com/articles/s41893-020-00608-z"><sup>5<sup></a>.
 Briefly, I strive to understand both drivers and consequences of
-biodiversity rearrangements in novel landscapes. Therefore, there seems
-to be a strong match between my own research goals and the Copernicus
-Institute view on the challenges for a sustainable future, as stated in
-the job advertisement:</p>
-<p>“<em>… Preserving biodiversity is one of the major sustainability
-<br> challenges of our time, and strongly interacts with other
-sustainability<br> themes. Both the drivers and the impacts of
-biodiversity loss are <br> intertwined with natural and societal
-processes at various scales,<br> ranging from local to global…</em>”</p>
-<p>My plans for the next years at the Copernicus Institute is to build a
-dedicated research group on <strong>sustainable management of
+biodiversity rearrangements in novel landscapes.</p>
+<p>My plans for the next years at the Nottingham TRent University is to
+build a dedicated research group on <strong>sustainable management of
 social-ecological landscapes</strong>, working on the interface between
 ecological and social sciences. This is the result of the maturity and
 development of my critical thinking on the drivers of biodiversity
@@ -321,7 +321,8 @@ believe that an integrated approach to biodiversity conservation demands
 the assessment of both human and non-human components of a
 landscape.</p>
 <p>In the short to medium term, this research program aims to address
-the following questions:</p>
+the following questions, all related to restoration of Tropical
+landscapes:</p>
 <ol style="list-style-type: decimal">
 <li>What constitutes a good measure of “forest security” and why?</li>
 <li>How are biodiversity and ecosystem functions related in tropical
@@ -333,12 +334,9 @@ forests?</li>
 quantify nature’s contributions to people across tropical forests while
 assessing how human activities affects biodiversity in social-ecological
 landscapes. I draw on both conceptual and analytical tools from
-landscape ecology, functional ecology and social-ecological systems
-frameworks. This also matches the profile of the scholar in the job
-advertisement:</p>
-<p>“<em>…You have a systems approach (e.g., social-ecological systems,
-complexity or nexus approaches) <br> and are able to integrate across
-multiple disciplines and scales…</em>”</p>
+restoration ecology, landscape ecology, functional ecology and
+social-ecological systems frameworks. This also matches the profile of
+the scholar in the job advertisement:</p>
 </div>
 <div id="current-research-projects" class="section level2">
 <h2><strong>Current research projects</strong></h2>
@@ -358,9 +356,6 @@ students from three countries (USA, UK and Brazil).</p>
 <p><a
 href="https://www.nature.com/articles/s41893-020-00608-z"><strong>Melo
 et al (2021, Nature Sustainability)</strong></a></p>
-<p>This research project seems to be in line with the established
-expertises of the Copernicus Institute as it works exactly on the
-“<em>intersection of natural and social sciences</em>”.</p>
 </div>
 <div id="cdeep---caatina-dry-ecosystem-ecological-program"
 class="section level3">
@@ -389,15 +384,6 @@ simulate consequences of common land-use that, although are being
 treated at the local scale with a solid experimental design, can be
 up-scaled to global questions related to climate and societal
 changes.</p>
-<p>The job advertisement says:</p>
-<p>“<em>…Your research contributes to understanding the relation between
-biodiversity <br> and other global change and societal challenges, such
-as climate and land-use change<br> at a variety of scales in order to
-design solutions for halting biodiversity loss. <br> You have a systems
-approach (e.g., social-ecological systems, complexity or nexus
-approaches)<br> and are able to integrate across multiple disciplines
-and scales…</em>”</p>
-<p>I see myself.</p>
 </div>
 </div>
 

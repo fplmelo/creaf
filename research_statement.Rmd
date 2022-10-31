@@ -1,5 +1,5 @@
 ---
-title: "Research Plans for the Copernicus Institute"
+title: "Research Plans for the Nottingham Trent University"
 author: "Felipe Melo"
 date: ""
 output: html_document
@@ -9,26 +9,18 @@ output: html_document
 
 The broad question that guides my research program is: **How biodiversity and human livelihoods are intertwined in human-modified landscapes?** To answer this question, I draw on both the theoretical and analytical tools of natural sciences and on the social-ecological systems (SES) framework. I am interested in all kinds of interactions between biodiversity (especially plants) and human activities that take place in working landscapes such as rangelands, farmlands, peri-urban and fragmented landscapes. 
 
-I strive to understand how biodiversity persists in human-modified landscapes. I have been addressing this question though different apporaches such as: The role of human-modified landscapes in maintaining biodiversity [<sup>1<sup>](https://www.sciencedirect.com/science/article/abs/pii/S0169534713000037); How proliferation of disturbance-adapted species cause biotic homogenization [<sup>2<sup>](https://www.sciencedirect.com/science/article/abs/pii/S0169534721000562); and assessing alternative successional pathways in Tropical forests [<sup>3<sup>](https://onlinelibrary.wiley.com/doi/10.1111/brv.12231). However, I am also very interested in the political ecology of restoration and I accumulated some reflection on how to scale-up long lasting restoration projects [<sup>4<sup>](https://www.sciencedirect.com/science/article/abs/pii/S1462901113001494) Recently, I introduced the novel concept of “forest security” as a fourth dimension for the water, energy and food security nexus [<sup>5<sup>](https://www.nature.com/articles/s41893-020-00608-z). Briefly, I strive to understand both drivers and consequences of biodiversity rearrangements in novel landscapes. Therefore, there seems to be a strong match between my own research goals and the Copernicus Institute view on the challenges for a sustainable future, as stated in the job advertisement: 
+I strive to understand how biodiversity persists in human-modified landscapes. I have been addressing this question though different approaches such as: The role of human-modified landscapes in maintaining biodiversity [<sup>1<sup>](https://www.sciencedirect.com/science/article/abs/pii/S0169534713000037); How proliferation of disturbance-adapted species cause biotic homogenization [<sup>2<sup>](https://www.sciencedirect.com/science/article/abs/pii/S0169534721000562); and assessing alternative successional pathways in Tropical forests [<sup>3<sup>](https://onlinelibrary.wiley.com/doi/10.1111/brv.12231). However, I am also very interested in the political ecology of restoration and I accumulated some reflection on how to scale-up long lasting restoration projects [<sup>4<sup>](https://www.sciencedirect.com/science/article/abs/pii/S1462901113001494) Recently, I introduced the novel concept of “forest security” as a fourth dimension for the water, energy and food security nexus [<sup>5<sup>](https://www.nature.com/articles/s41893-020-00608-z). Briefly, I strive to understand both drivers and consequences of biodiversity rearrangements in novel landscapes. 
 
-"_... Preserving biodiversity is one of the major sustainability <br>
-challenges of our time, and strongly interacts with other sustainability<br>
-themes. Both the drivers and the impacts of biodiversity loss are <br>
-intertwined with natural and societal processes at various scales,<br>
-ranging from local to global..._"
 
-My plans for the next years at the Copernicus Institute is to build a dedicated research group on **sustainable management of social-ecological landscapes**, working on the interface between ecological and social sciences. This is the result of the maturity and development of my critical thinking on the drivers of biodiversity rearrangements in human-dominated ecosystems. Landscapes are not naturally given, but constructed, even the “wildest” ones. Therefore, I believe that an integrated approach to biodiversity conservation demands the assessment of both human and non-human components of a landscape. 
+My plans for the next years at the Nottingham TRent University is to build a dedicated research group on **sustainable management of social-ecological landscapes**, working on the interface between ecological and social sciences. This is the result of the maturity and development of my critical thinking on the drivers of biodiversity rearrangements in human-dominated ecosystems. Landscapes are not naturally given, but constructed, even the “wildest” ones. Therefore, I believe that an integrated approach to biodiversity conservation demands the assessment of both human and non-human components of a landscape. 
 
-In the short to medium term, this research program aims to address the following questions: 
+In the short to medium term, this research program aims to address the following questions, all related to restoration of Tropical landscapes: 
 
 1. What constitutes a good measure of "forest security" and why?
 2. How are biodiversity and ecosystem functions related in tropical ecosystems?
 3. What is the contribution of nature to human livelihoods in tropical forests? 
 
-The long-term goal is to create a synthesis working group aiming to quantify nature's contributions to people across tropical forests while assessing how human activities affects biodiversity in social-ecological landscapes. I draw on both conceptual and analytical tools from landscape ecology, functional ecology and social-ecological systems frameworks. This also matches the  profile of the scholar in the job advertisement:
-
-"_...You have a systems approach (e.g., social-ecological systems, complexity or nexus approaches) <br>
-and are able to integrate across multiple disciplines and scales..._"
+The long-term goal is to create a synthesis working group aiming to quantify nature's contributions to people across tropical forests while assessing how human activities affects biodiversity in social-ecological landscapes. I draw on both conceptual and analytical tools from restoration ecology, landscape ecology, functional ecology and social-ecological systems frameworks. This also matches the  profile of the scholar in the job advertisement:
 
 
 
@@ -42,7 +34,6 @@ This project aims to understand human dependencies on forest services through th
 
 [**Melo et al (2021, Nature Sustainability)**](https://www.nature.com/articles/s41893-020-00608-z)
 
-This research project seems to be in line with the established expertises of the Copernicus Institute as it works exactly on the "_intersection of natural and social sciences_". 
 
 
 ### **cDEEP - Caatina Dry Ecosystem Ecological Program**
@@ -53,14 +44,5 @@ The second research project aims to assess the relationships between biodiversit
 
 This project summarizes my training in natural sciences as I am testing here what happens to biodiversity in face oh human-caused disturbances and how ecological functions change with it. The stressors simulate consequences of common land-use that, although are being treated at the local scale with a solid experimental design, can be up-scaled to global questions related to climate and societal changes. 
 
-The job advertisement says:
-
-"_...Your research contributes to understanding the relation between biodiversity <br>
-and other global change and societal challenges, such as climate and land-use change<br>
-at a variety of scales in order to design solutions for halting biodiversity loss. <br>
-You have a systems approach (e.g., social-ecological systems, complexity or nexus approaches)<br>
-and are able to integrate across multiple disciplines and scales..._"
-
-I see myself.
 
 

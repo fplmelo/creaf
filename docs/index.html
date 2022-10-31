@@ -11,9 +11,9 @@
 
 
 
-<title>Selection Process for Copernicus Institute at Utrecht University</title>
+<title>Selection Process for Nottingham Trent University</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -80,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -137,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -232,7 +240,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -251,7 +259,7 @@ $(document).ready(function () {
   <a href="teaching_statement.html">Teaching Overview</a>
 </li>
 <li>
-  <a href="why_ci.html">Why Copernicus Institute?</a>
+  <a href="why_ci.html">Why NTU?</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -265,8 +273,8 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Selection Process for Copernicus Institute
-at Utrecht University</h1>
+<h1 class="title toc-ignore">Selection Process for Nottingham Trent
+University</h1>
 
 </div>
 
@@ -282,9 +290,10 @@ at Utrecht University</h1>
 
 </style>
 <div class="row" style="padding-top: 30px;">
-<div id="selection-process-for-copernicus-institute"
+<div id="selection-process-for-nottingham-trent-university"
 class="section level1 col-sm-6">
-<h1><strong>Selection Process for Copernicus Institute</strong></h1>
+<h1><strong>Selection Process for Nottingham Trent
+University</strong></h1>
 <div id="how-to-navigate-this-site" class="section level2">
 <h2>How to navigate this site</h2>
 <ol style="list-style-type: decimal">
@@ -296,9 +305,9 @@ words on my research vision, philosophy and goals.</p></li>
 <li><p>In the section <strong>Teaching Overview</strong> I briefly
 explain my approach to education, methods, practices and
 outputs.</p></li>
-<li><p>In the section <strong>Why Copernicus Institute?</strong> I
-highlight some congruences between my career plans and the scholar
-profile of the job advertisement.</p></li>
+<li><p>In the section <strong>Why NTU?</strong> I highlight some
+congruences between my career plans and the scholar profile of the job
+advertisement.</p></li>
 </ol>
 <p><em>Note: I use several quotes extracted from the job advertisement
 as to demonstrate that my profile matches with the job.</em></p>
@@ -306,7 +315,7 @@ as to demonstrate that my profile matches with the job.</em></p>
 </div>
 <div class="col-sm-6">
 
-<p><img src="images/uu-logo.png" /></p>
+<p><img src="images/ntu.webp" /></p>
 
 
 
