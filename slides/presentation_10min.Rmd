@@ -1,6 +1,6 @@
 ---
 title: "Biocultural Restoration of Social-Ecological Landscapes of Eastern Africa"
-subtitle: "Research, teaching and outreach strategies"
+subtitle: "Research interests and plans for NTU"
 author: "Dr. Felipe Melo"
 institute: ""
 date: ""
@@ -282,96 +282,42 @@ class: middle, center
 <img src=libs/forest_poverty.png width = 750>]]
 
 ---
-class: center, middle
-background-position: center, middle
-background-size: 100%
-background-image: url("https://ecoaplic.org/en/home/gallery/gallery/Curso%20chajul%20%2870%29.jpg")
-.content-box-gray[
-# Teachiing practice
-]
----
-class: center
-background-position: center, middle
-background-size: 100%
-background-image: url("libs/cc.jpg")
-.content-box-gray[
-# Field courses in Restoration
-]
---
-
-class: center, middle
+class: center, middle, inverse
 # Plans for NTU
 
 ---
 .left-column[
 
-# NUEVO LAB
-## Tema 1 
-## Ecología y manejo de paisajes socio-ecológicos
+# New Reseach  Group 
+
+### Ecology and management of social-ecological landscapes
+### Biodiversity-Ecosystem fucntioning relationships
 
 ]
 .right-column[
 
 .right[
 
-### ¿Cuál es el papel de la restauración para el bienestar humano?
+### On the role of forest or improving human well-being
 <img src=libs/wef.png width= 700>
 
 ]
 ]
 
 ---
-.left-column[
-# NUEVO LAB
-## Tema 2 
-## Relación entre Biodivesidad y función ecosistémica
-
-]
-.right-column[
-<iframe width="780" height="521" src="https://www.youtube.com/embed/C21RHdxeu3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-]
-
----
-# Formación de nuevos científicos y prácticos
+# Training and capacity building
 .pull-left[
 
-## [Posgrado en Ciencias Biológicas](https://www.cicy.mx/posgrado-en-ciencias-biologicas/inicio)
+## [Conservation and Ecology at NTU](https://www.ntu.ac.uk/course/conservation-ecology#pgCourseList)
 
-<img src=https://www.cicy.mx/images/Inicio/Posgrado/CB.jpg>
+<img src=libs/squir.png>
 ]
 .pull-right[
-## Cursos que puedo ofrecer
-### Curso de campo de Ecología y manejo de paisajes socioecológicos
-### Ecología de la Restaruación
-### Conservación de la Biodivversidad
+## Courses I can teach:
+### Field course on ecology of tropical landscapes
+### Restoration Ecology
+### Political Ecology
 ]
-
----
-# Potencial para colaboraciones
-.pull-left[
-## [Servicios Ambientales de la Biodiversidad](https://www.cicy.mx/unidad-de-recursos-naturales/lineas-de-investigacion)
-## Ecología Funcional de la Restauración
-## Restauración Biocultural
-]
-
-.pull-right[
-
-<img src=libs/manglar.png width = 600>]
-
----
-# Potencial para colaboraciones
-.pull-left[
-## [Cambio Global en Ecosistemas Neotropicales](https://www.cicy.mx/unidad-de-recursos-naturales/lineas-de-investigacion)
-## Ecología Funcional
-## Ecología del paisaje
-## Hogenización biótica
-]
-
-.pull-right[
-
-<img src=libs/mapa_yuc.png width = 600>]
-
 
 ---
 background-position: center
@@ -379,31 +325,20 @@ background-size: 100%
 background-image: url("libs/sdg.png")
 
 ---
-# Recursos para Investigación
+# Fundraising potential
 .pull-left[
 
 
-### Fuentes Mexicanas
-<img src=libs/conacyt.png width = 200>
-<br>
-<img src=libs/conabio.jpeg width = 200>
+<img src=libs/gcrf.png>
 
-
-]
+.pull-left[
+<img src=https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Department_for_Environment%2C_Food_and_Rural_Affairs_logo.svg/1920px-Department_for_Environment%2C_Food_and_Rural_Affairs_logo.svg.png width = 200>]
 .pull-right[
+<img src=https://wikiimg.tojsiabtv.com/wikipedia/en/thumb/c/c4/Vectorised_colour_logo_of_the_Royal_Geographical_Society.svg/1200px-Vectorised_colour_logo_of_the_Royal_Geographical_Society.svg.png width = 200>
 
-### Fuentes Exteriores
-<img src=libs/erc_eu.png width = 250>
-<img src=libs/rsg.jpeg width = 350>
-
-]
----
-
-class: middle, center
-# Gracias
+]]
 
 ---
-
 
 class: middle, center
 

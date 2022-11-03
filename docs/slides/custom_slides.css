@@ -60,3 +60,9 @@
   background-size: cover;
   background-position: bottom, right;
 }
+
+.inverse {
+  background-color: #9e043d;
+  color: #d6d6d6;
+  text-shadow: 0 0 20px #333;
+}
