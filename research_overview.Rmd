@@ -1,7 +1,7 @@
 ---
 title: "Research, teaching and outreach strategies"
 author: "Dr. Felipe Melo"
-date: "18/02/2022"
+date: ""
 output:
   html_document:
     df_print: paged
